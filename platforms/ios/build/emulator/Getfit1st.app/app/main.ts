@@ -3,7 +3,7 @@ import { AppModule } from "./app.module";
 
 import { UserService } from "./shared/user/user.service";
 
-/*import firebase = require("nativescript-plugin-firebase");
+import firebase = require("nativescript-plugin-firebase");
 
 firebase.init({
   //persist should be set to false as otherwise numbers aren't returned during livesync
@@ -26,5 +26,5 @@ firebase.init({
     console.log("firebase.init error: " + error);
   }
   );
-  */
+  
 platformNativeScriptDynamic().bootstrapModule(AppModule);

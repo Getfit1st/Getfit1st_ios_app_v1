@@ -1,7 +1,7 @@
 import { Injectable } from "@angular/core";
 import { Http, Headers, Response } from "@angular/http";
 import { Observable } from "rxjs/Rx";
-//import firebase = require("nativescript-plugin-firebase");
+import firebase = require("nativescript-plugin-firebase");
 
 import { User } from "./user";
 
@@ -13,7 +13,7 @@ export class UserService {
     alert("About to register: " + user.email);
   }*/
 
-  /*login(user: User) {
+  login(user: User) {
     firebase.login({
     type: firebase.LoginType.PASSWORD,
     email: user.email,
@@ -28,5 +28,5 @@ export class UserService {
         return false;
       }
   );
-  }*/
+  }
 }

@@ -36,14 +36,14 @@ export class LoginComponent {
     console.log("inside login function");
     console.log("user name : "+this.user.email);
     console.log("password : "+this.user.password);
-    this.router.navigate(["/home"]);
-   /* if(this.userService.login(this.user))
+    //this.router.navigate(["/home"]);
+   if(this.userService.login(this.user))
     {
       this.router.navigate(["/home"]);
     }
     else
     {
       alert("Unfortunately we could not find your account.");
-    }*/
+    }
   }
 }
