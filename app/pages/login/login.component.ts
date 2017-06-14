@@ -46,4 +46,21 @@ export class LoginComponent {
       alert("Unfortunately we could not find your account.");
     }
   }
+  register()
+  {
+    console.log("inside register function");
+    console.log("user name : "+this.user.email);
+    console.log("password : "+this.user.password);
+    //this.router.navigate(["/home"]);
+   if(this.userService.register(this.user))
+    {
+      alert("logged in successfully");
+      this.router.navigate(["/login"]);
+    }
+    else
+    {
+      alert("Unfortunately we could not find your account.");
+    }
+
+  }
 }

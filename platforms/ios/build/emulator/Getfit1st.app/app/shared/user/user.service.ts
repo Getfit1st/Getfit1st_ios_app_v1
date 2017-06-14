@@ -28,5 +28,16 @@ export class UserService {
         return false;
       }
   );
-  }
+}
+register(user: User){
+  return firebase.createUser({
+        email: user.email,
+        password: user.password
+      }).then(
+          function (response) {
+            console.log(response);
+            return response;
+          }
+      );
+}
 }
