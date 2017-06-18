@@ -86,459 +86,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		Qb0vXsvk+E4kOC+AeZkZioZXAZY=
-		</data>
-		<key>Frameworks/Bolts.framework/Bolts</key>
-		<data>
-		zf3jhlQfnCrwiHams6rF9Bki+5E=
-		</data>
-		<key>Frameworks/Bolts.framework/Info.plist</key>
-		<data>
-		00HA3xq4nm2B4BJMinXzaZSGj8k=
-		</data>
-		<key>Frameworks/Bolts.framework/_CodeSignature/CodeResources</key>
-		<data>
-		w44hM70zzHj2dQSJWJjEPBww4cc=
-		</data>
-		<key>Frameworks/FBSDKCoreKit.framework/FBSDKCoreKit</key>
-		<data>
-		WJaA2yBJquubzx7pnV90ELBkArU=
-		</data>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/af.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BAXnwVQKNuEIS0MfYBd5fm3WzMg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ar.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PH9MCmD3AYRlV4sgBpIO59GqvQU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/bn.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HBEOgQUx3P7aEUfEX3uCEQDwph8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/cs.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ltQdU1GigAx1gIWhohBo5fKqO+I=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/da.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3i4r5KCxy0fPOgyoxCP7JidbzGA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/de.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			EGQIyMz+ooVByIMuSkQ4qg1KoVs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/el.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eNuNUKEFd0Qskp8kbKfUbR4XWb0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/en.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			U5Dz4SBItBNA9+b+/WN8F/AQ1ss=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/en_GB.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aPoeXqKRh+yMC76Bwp23knMfCDE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/es.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BmkkeSDMVcEaSzGr8AeENzMSFPU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/es_ES.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wciCCvhLzza0rR6/TsUsEeZJdW4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/fi.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hEYNoHApVfGNj7XlHhJ8E2FUF7g=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/fil.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			L3D1vF/9HKJzJ5kD3cYEivHMY1U=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/fr.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Jld32n/9N7ix6J15Tppsep7QkHw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/gu.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			JOKxZz37sOAxloOCh8W2pkYG5CE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/he.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2LBdNACNFAqatXY3l8hanDWwO04=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/hi.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3KKhQ5JrGgcg+8Igkkf6Lv+Sf68=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/hr.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QjN5E5dwj2DzO7e7hywC5O4d2O0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/hu.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XClwdP8luNp2BE+qAelXzmIdBac=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/id.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1f3ZzlpOM7h3rJDdJK2GiN6vsg4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/it.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			W3QUhwNGo9CGqi5PslAbO8dVIpQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ja.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lWhKyPJwc2A/JHUYf9yq0zKYb74=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/kn.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bNsUUPhHlnAdFD2cgWFAkTHzwyA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ko.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bk86HRfylH2A93Bhadm/RYNkPCE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ml.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			NdJDYq0zeCXiQK4iZCxUVWV1Z0I=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/mr.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			D+SJ3VQ0SrGHH83LUsqCvRJOreE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ms.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XGOffR8CIC5UKgks//c9UP4CMZU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/nb.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jH9qEXsOp49HCBIAABhaX3Dt3V4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/nl.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KDkRSdKlf8uuRkvC8EmoiGNyTms=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/pa.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5xNTg9XVEB+Zqyvaw96C1U6Xq/4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/pl.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Ik9RioEnsVQc3KmlUfpnjQzu/Fk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/pt.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9W1Mk9442r8qSXoK275VfHABkKI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/pt_PT.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9Y8Af4N32FMQFCO9NqOSRg494LY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ru.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8weDrzHkvhJnsmCAsFucggjvWZ0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/sk.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8gyEXLfWBF3zB0G8mHeyKUIJ2rQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/sv.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YCYrhnduPSvwwWIJFh/yo/ubhT4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ta.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			L52689yJnVbx3XzeTt6a7JDevgM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/te.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			iPacfIxHcCRN0qZhCyElaeMAnP4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/th.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PwsgsPkKuOpJBn2NgQx2dpc6yuM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/tr.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yIOsObei4te8Ksl7tt6ahZtk5D8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/vi.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lQozK3CEOSNmnVVYvPGxJ/+V/D0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/zh.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+i+rIySVtOBmhsRoQp5ttaSeEnA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/zh_Hant_HK.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/U6SUzuq+fe+mlIEhnXpv+xIsQI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/zh_Hant_TW.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fN8DmDyrCWIvVKiPP41KYhj74g8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/Info.plist</key>
-		<data>
-		72s81w3MCZThnM5EOQB2dlVxArQ=
-		</data>
-		<key>Frameworks/FBSDKCoreKit.framework/_CodeSignature/CodeResources</key>
-		<data>
-		qp2GT90r+U164b20cIhJ7MaETF0=
-		</data>
-		<key>Frameworks/FBSDKLoginKit.framework/FBSDKLoginKit</key>
-		<data>
-		nVvslEBLc279N/Z8GPoEHqsm6Vc=
-		</data>
-		<key>Frameworks/FBSDKLoginKit.framework/Info.plist</key>
-		<data>
-		FLkz2vSmi77M8keM9q+DVDeXUo8=
-		</data>
-		<key>Frameworks/FBSDKLoginKit.framework/_CodeSignature/CodeResources</key>
-		<data>
-		en+jeKREAuHNF7MLe7gvdGq6iD8=
-		</data>
-		<key>Frameworks/GTMOAuth2.framework/GTMOAuth2</key>
-		<data>
-		kToOdY31ZUb2suPLKVSvL4bY0aQ=
-		</data>
-		<key>Frameworks/GTMOAuth2.framework/GTMOAuth2ViewTouch.nib</key>
-		<data>
-		S2AzRbn9X6oAdPtVuV6wujbvfqM=
-		</data>
-		<key>Frameworks/GTMOAuth2.framework/Info.plist</key>
-		<data>
-		oYDFK2IMGX18gydooVD5SwOJGvU=
-		</data>
-		<key>Frameworks/GTMOAuth2.framework/_CodeSignature/CodeResources</key>
-		<data>
-		xoxCP75/I9X/KaKsuTtjC5/9qss=
+		uqVHrCSehFGjVa4Wbcqkpd2wAC0=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
 		<data>
-		F1n9R7eOMrb+JhccotabTCxmAfI=
+		ihJwuLAIiJEcqTH8WuNFK97+FEM=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
 		<data>
@@ -550,7 +102,7 @@
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac</key>
 		<data>
-		c+Sk7Ddr6xbunNOUEWVWvGq4ORg=
+		faO22LwLwCAp+zFzbYIgIUabCsE=
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
 		<data>
@@ -572,378 +124,34 @@
 		<data>
 		OxI7qmBgUFgXslw4GBgyd+70s/4=
 		</data>
-		<key>Frameworks/Protobuf.framework/Info.plist</key>
-		<data>
-		kr/sTXhV/BHZ7qnajbPy7dpMwLA=
-		</data>
-		<key>Frameworks/Protobuf.framework/Protobuf</key>
-		<data>
-		rEhQGzxlH+R7Uc9nn6j9UzyKVdQ=
-		</data>
-		<key>Frameworks/Protobuf.framework/_CodeSignature/CodeResources</key>
-		<data>
-		zcKtEewj0CSsOIeQ3c4+zXcnN7o=
-		</data>
 		<key>Frameworks/TNSWidgets.framework/Info.plist</key>
 		<data>
-		vVYyamLHGQPwqy/hCgV1ZXN5xaM=
+		NiB/GB2kylvKWIwFwX19/D505aM=
 		</data>
 		<key>Frameworks/TNSWidgets.framework/TNSWidgets</key>
 		<data>
-		C6W2LVF6elTjUXSUZ6ucy/Bq+QU=
+		ahKw6UZ0efBE1eW1ItsE/uiu7zM=
 		</data>
 		<key>Frameworks/TNSWidgets.framework/_CodeSignature/CodeResources</key>
 		<data>
-		EJV7PJ+s07MCCqBqLs0KuXCfqyw=
+		gqDux4KXR5LwpjrHLal1t7HA7tk=
+		</data>
+		<key>Frameworks/TelerikUI.framework/Info.plist</key>
+		<data>
+		V/lpkoyy6AsBnYnHouWqyiTBjLY=
+		</data>
+		<key>Frameworks/TelerikUI.framework/TelerikUI</key>
+		<data>
+		kLYTBRXjhuYEyI9D0C2rKS3z3YU=
+		</data>
+		<key>Frameworks/TelerikUI.framework/_CodeSignature/CodeResources</key>
+		<data>
+		ePcMhOG7SGsMZMT/CY0GI7zHTsw=
 		</data>
 		<key>GoogleService-Info.plist</key>
 		<data>
-		FW2Idh4oS55Kzz3Swr6PvQStvRE=
+		ylp3uclI1svNOh/HacDShZXAHBs=
 		</data>
-		<key>GoogleSignIn.bundle/Info.plist</key>
-		<data>
-		crpRzFuQ9ZvKhMPCppVFY+N8cyQ=
-		</data>
-		<key>GoogleSignIn.bundle/Roboto-Bold.ttf</key>
-		<data>
-		RzJ98PNefNfIZFh0iXp0SWl1RK4=
-		</data>
-		<key>GoogleSignIn.bundle/ar.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cDxgICm2dFjfiPeYCfTua06ieMA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/ca.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jxk2OQG/+udN2wGUOW9Su8bozmo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/cs.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3SZfPmiX/uNms0dfyvpJ2YKfYAs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/da.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oIntgdmNT8vgklolp0V1aSwni9E=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/de.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+r5IQg8vmMQGofVbtTfuIpAkegA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/el.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			R4N2/n6PLvdXwzPAZSdBIQ42i5o=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/en.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2WBjXO3mOTycjDC36lU+OkTmMQI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/en_GB.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2WBjXO3mOTycjDC36lU+OkTmMQI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/es.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1L+WhN4hHZ+DMGL3814nf230sKU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/es_MX.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5DCiJO9D0jvvC1MdVuH87FoKE4U=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/fi.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			P9wjOJ2NnRD/MprJTtHsJv4WuYs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/fr.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aGMUV/zy0qshVO3EGOASJGzb61k=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/google.png</key>
-		<data>
-		guERtxRSG8LklxczLu47JIwLjiU=
-		</data>
-		<key>GoogleSignIn.bundle/google@2x.png</key>
-		<data>
-		4UwXGGzo+UtMgR0hUDrtRbq4Wqk=
-		</data>
-		<key>GoogleSignIn.bundle/google@3x.png</key>
-		<data>
-		A1wRWy89eRjMuVCP4K7S0AClNTw=
-		</data>
-		<key>GoogleSignIn.bundle/he.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rH8HlR4pGTObGw8bLy8hV1SaXCc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/hr.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6RKTTGxHRy/nJvmB8Z60EcU7AsQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/hu.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UYII/LAIXTZXAQZRhu8m6Hzo5X8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/id.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LL/K3xbMTK7IG6Qk+QFcn6ZhpHA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/it.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ngy2avHWwzrEJh13Pj0rUY8J9ww=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/ja.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			db1eHjFG5mTeudktpC1Ot/Oi+80=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/ko.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jULNLvjmokqVD3UHXOmQk+ZBjQc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/ms.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			unBXa+ccwraCiXztEmucSgJEzP8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/nb.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zTewpBsb/APJbytq7A50tSZ2bFs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/nl.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vI3aDgwEwt3VJMFBK8qJAg0Ko5g=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/pl.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4m8TqoloX4KRLKngPPKzv9TLWXQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/pt.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yWB/f7My2pU8Dx9fPakAFD3XGwc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/pt_BR.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yWB/f7My2pU8Dx9fPakAFD3XGwc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/pt_PT.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IUy+LgagdPrchWvzRocfuAOUl6c=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/ro.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XbTLbsoyl3Kgy6SWtyoU/xgnOU4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/ru.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fpOOLcC4LVN6RY0r+k9g1nK8OBw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/sk.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1qRPYCxnnE40LluJvBG62vyh/9k=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/sv.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gnOdeN9N3tSEMs8tka8GZZcoiGA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/th.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Jt50UKMQoMZOD1aZlFjHdvxWbUU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/tr.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MojegLj+aw/rwcX2jRoNMe9kYOs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/uk.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DVT6LBWhlbRFyHW4QoctIqtm4JU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/vi.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Xxgd4c4pIpGwWTLVSmbZJ9ZelUY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/zh_CN.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+FbfptuiJTrUGwKylxTvwQZvv1g=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/zh_TW.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BmkG1GdZVSsmsERs6T99Ve1Eb6k=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Info.plist</key>
 		<data>
 		FiyK4ZG0JXSgP+tnUCvhlEErklc=
@@ -1014,7 +222,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		IesE/9HK4GT1szLj0BPBSKd1XH4=
+		ffjfIIHyauCxPlMod4cys0E8zro=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -1022,7 +230,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		b/WZ5zubXJzIs5SnBKh2szus5DY=
+		XNev2rSE46HjJ0Fb1+8THFbDKLU=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -1046,7 +254,7 @@
 		</data>
 		<key>app/app.css</key>
 		<data>
-		J5U73HsW1gooLvWCgQgNFF3dNms=
+		R1nUKso7UXUW8n62GuK7qOOdvQM=
 		</data>
 		<key>app/app.module.js</key>
 		<data>
@@ -1063,6 +271,10 @@
 		<key>app/app.routing.ts</key>
 		<data>
 		txPRsRivcmE9Tlf8t4/3wz7cxtU=
+		</data>
+		<key>app/fonts/fontawesome-webfont.ttf</key>
+		<data>
+		E7HqtlqYPHpzvHmXxHnWaUP3xss=
 		</data>
 		<key>app/images/apple.jpg</key>
 		<data>
@@ -1142,11 +354,11 @@
 		</data>
 		<key>app/pages/home/home.css</key>
 		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		YmY6+YQnUlCRSoRfAd6pUdgIeMg=
 		</data>
 		<key>app/pages/home/home.html</key>
 		<data>
-		4NDPGjdCCmLY6xyJozW0rEvVFxg=
+		yJjtEM7tP+ZXE+JzkwaDUPdL3sg=
 		</data>
 		<key>app/pages/login/login-common.css</key>
 		<data>
@@ -1154,11 +366,11 @@
 		</data>
 		<key>app/pages/login/login.component.js</key>
 		<data>
-		PzuB5pWVfe/MfRFl4Qah+lSk/+s=
+		AT+cOrMjiEpWHZ4KQGqGEoQdw8M=
 		</data>
 		<key>app/pages/login/login.component.ts</key>
 		<data>
-		7Od/VqIgzCAGC1tGF5dFt639SEo=
+		f7JEwM5jt4Fevs9tHlXJA/fKdAs=
 		</data>
 		<key>app/pages/login/login.css</key>
 		<data>
@@ -1170,7 +382,7 @@
 		</data>
 		<key>app/platform.css</key>
 		<data>
-		tIKJbjsx6jJpyCQRqhYrHGYFkZc=
+		Sca90qN71S3BtbbSL+HpPJRQbfQ=
 		</data>
 		<key>app/shared/user/user.js</key>
 		<data>
@@ -1178,11 +390,11 @@
 		</data>
 		<key>app/shared/user/user.service.js</key>
 		<data>
-		N3EMUN1NB+uIkNvqy9jnbYlpGqM=
+		/n5xsQ55jjGfVZKF0T82QzeTVrk=
 		</data>
 		<key>app/shared/user/user.service.ts</key>
 		<data>
-		VkgiPY3nk6VipPEVOojykafiZeU=
+		P+lDVvJU8NpM8C+1bOonTyAx9ro=
 		</data>
 		<key>app/shared/user/user.ts</key>
 		<data>
@@ -7623,6 +6835,142 @@
 		<key>app/tns_modules/nativescript-plugin-firebase/scripts/winston-mock.js</key>
 		<data>
 		bPKYKdhLsmY3FFZwhI2M57NRFGU=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/LICENSE.md</key>
+		<data>
+		hqV0Uc5NrKGZq470wL2fdD4TghM=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/README.md</key>
+		<data>
+		Xh/541DTFro/0UzUbearyG+ihwE=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/android.d.ts</key>
+		<data>
+		T4LZHL72K2MiUaaGzqSgR3nGMvI=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/ios.d.ts</key>
+		<data>
+		nzpe3xTYzOZyjYYVNcqWOHm+qqQ=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/index.d.ts</key>
+		<data>
+		8/7GOgqDmbTVnVbjcpYAurlx7Ng=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/index.js</key>
+		<data>
+		/Bedm8IJqQqqn9dcMx0mhyTOnq0=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/index.metadata.json</key>
+		<data>
+		ZdyG30ZfLqyY4w5BEpCZnB9dlg8=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/listview-directives.d.ts</key>
+		<data>
+		ixJASRyZI4W1YlIAfDJsUSCoY8w=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/listview-directives.js</key>
+		<data>
+		7py3tsjyqHt4gtWsGhL5VTimBJM=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/listview-directives.metadata.json</key>
+		<data>
+		kCaakrRycg3dbeSL2eg5KyfNS98=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/package.json</key>
+		<data>
+		qDuj8pZ3dampScOMdR9rGVRSh9Q=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/index.d.ts</key>
+		<data>
+		/x5vfs0ij7NmSYXmwVEM9vJH6J0=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/listview-common.js</key>
+		<data>
+		DU3PIRS01pQtbs3405EhLMQiSrI=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/listview-common.metadata.json</key>
+		<data>
+		nmKLAYMhtDhhL4p9Bwa8hZiNWmM=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/listview.js</key>
+		<data>
+		1zlrNvGoskUyqUdUeXGZki+8S+s=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/listview.metadata.json</key>
+		<data>
+		nFUpKrQ0FhpcDH76xWOP3VCOois=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/package.json</key>
+		<data>
+		7gxFgexRBDmpi38M+BAlYN1mZzY=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/package.json</key>
+		<data>
+		akA/M5jT8PoAm7pbfToS9POfURs=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/references.d.ts</key>
+		<data>
+		RZ13sVzSxI2SI1X4lEdyBhoajDI=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/scripts/email-prompt.js</key>
+		<data>
+		MTDCmsy7c+m6pPgl/iNq7p5FEuc=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/scripts/eula-prompt.js</key>
+		<data>
+		lGby74RkA+Z9YckfoOUMbRQi75k=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/index.d.ts</key>
+		<data>
+		LIl+G7eStqY1TmWgHVySj62TVPQ=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/index.js</key>
+		<data>
+		LRYFCpvH5Jk8yxNfvAPt1zzU2+0=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/index.metadata.json</key>
+		<data>
+		45IAL2tPtbC3+Bk4M6zqc+x44Lo=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/package.json</key>
+		<data>
+		cVLjLuvH4WgHhVeuPS1GzIdH34Y=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/side-drawer-directives.d.ts</key>
+		<data>
+		dSRT7h1tLaOu/Pedlt8EMfCAvUI=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/side-drawer-directives.js</key>
+		<data>
+		DG+IJGwBx7XcV6gpohEib9ibSm8=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/side-drawer-directives.metadata.json</key>
+		<data>
+		Tq9zzub3kcXUjKof4L5+hoVkg94=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/index.d.ts</key>
+		<data>
+		JQ/+kKgLIaoXtQZ9NqOtgkYUTro=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/package.json</key>
+		<data>
+		Ioq4R6C3uz4y4TViY+uxIZutq6E=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/sidedrawer-common.js</key>
+		<data>
+		IHqNRDWf1TVPHZJ0U/PsIFd95kQ=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/sidedrawer-common.metadata.json</key>
+		<data>
+		onI0WjF0L9wvn16zoHHtzc3ZzNE=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/sidedrawer.js</key>
+		<data>
+		5q0UJzQTMCJP1tXgD/sfqWbOl/s=
+		</data>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/sidedrawer.metadata.json</key>
+		<data>
+		5nbLlokStLT4L8kPrCtwWYZhwuY=
 		</data>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>
 		<data>
@@ -14286,7 +13634,11 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules-widgets/package.json</key>
 		<data>
-		YhHi4HHs6KjLPR5WKr5XLzyVYU4=
+		XUedPC7DTvIbIKwwkCxkaJdcOz8=
+		</data>
+		<key>app/tns_modules/tns-core-modules-widgets/package.json.bak</key>
+		<data>
+		2k+dWvbEbmpMwzbrC8L0YLl52y4=
 		</data>
 		<key>app/tns_modules/tns-core-modules/LICENSE</key>
 		<data>
@@ -14408,6 +13760,14 @@
 		<data>
 		D09COkCKTwBse+SVGXLqt7XybKQ=
 		</data>
+		<key>app/tns_modules/tns-core-modules/debugger/devtools-elements.js</key>
+		<data>
+		TrvR2DwExekupCPRoRDn7aWO7a8=
+		</data>
+		<key>app/tns_modules/tns-core-modules/debugger/dom-node.js</key>
+		<data>
+		Y6js6xZgLw7ComO0LcEhoYST8sM=
+		</data>
 		<key>app/tns_modules/tns-core-modules/debugger/package.json</key>
 		<data>
 		GvgZbea7Kze/URvBLF+1oZwMoLM=
@@ -14438,7 +13798,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/file-system/file-system.js</key>
 		<data>
-		bg0CefLbnEe8PulaKih+vM5FGPo=
+		bCuu3jlN1RbV8kXYIKUyMMD/mzo=
 		</data>
 		<key>app/tns_modules/tns-core-modules/file-system/package.json</key>
 		<data>
@@ -14462,15 +13822,19 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/globals/globals.js</key>
 		<data>
-		dwOoHiq3HJhsxlq2/C+3I8ARzLo=
+		h+LMCc0DRBdgqbS1h30hECNXJyw=
 		</data>
 		<key>app/tns_modules/tns-core-modules/globals/package.json</key>
 		<data>
-		8hhheqKBlOvhn8Fxij1I+9yGjs4=
+		esXKnd5wawUYAip+LXNFi2+qd9o=
+		</data>
+		<key>app/tns_modules/tns-core-modules/http/http-request/http-request-common.js</key>
+		<data>
+		xfjaq3tvPxS1GpUGVCkdtwLNlkA=
 		</data>
 		<key>app/tns_modules/tns-core-modules/http/http-request/http-request.js</key>
 		<data>
-		2w5Dqcqr6A4GUPPwpFpb7QyDm7M=
+		8SfBXmbNzQ+lGCVK8Yb4mSwUsVM=
 		</data>
 		<key>app/tns_modules/tns-core-modules/http/http-request/package.json</key>
 		<data>
@@ -14536,9 +13900,17 @@
 		<data>
 		L29pXlPZ/9BAIWlhG+VXr/5G5Y0=
 		</data>
+		<key>app/tns_modules/tns-core-modules/matrix/matrix.js</key>
+		<data>
+		6gi77Py+Hib6+uluuEr0qODrl5A=
+		</data>
+		<key>app/tns_modules/tns-core-modules/matrix/package.json</key>
+		<data>
+		A4iyJdDV3pppVUbny/VCBjjbunw=
+		</data>
 		<key>app/tns_modules/tns-core-modules/package.json</key>
 		<data>
-		BOLoO5/smYKSDDEe+5iqnewPw5I=
+		3xOFwHDewtpq2uCZa1Oho2nk/sU=
 		</data>
 		<key>app/tns_modules/tns-core-modules/platform/package.json</key>
 		<data>
@@ -14554,7 +13926,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/profiling/profiling.js</key>
 		<data>
-		CB9ubSpKh6mdR14NiIbvHlFGLjY=
+		ktiBO5R4AUSMw985XeavHXVuB5w=
 		</data>
 		<key>app/tns_modules/tns-core-modules/text/formatted-string.js</key>
 		<data>
@@ -14578,7 +13950,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/timer/timer.js</key>
 		<data>
-		Ml4PjAoH4EauyyhRNNwoASioMJo=
+		I3gk76uk1H2HaQmX9moSHw/LdsU=
 		</data>
 		<key>app/tns_modules/tns-core-modules/trace/package.json</key>
 		<data>
@@ -14622,7 +13994,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/animation/keyframe-animation.js</key>
 		<data>
-		+5nPBJwiXC9QyoWIi0TTVJ8dfI4=
+		sVsGZNeaBfhb4lnp+bQPuzENpQ8=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/animation/package.json</key>
 		<data>
@@ -14658,11 +14030,11 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/button/button-common.js</key>
 		<data>
-		toOzpW53a5Df3YTRyrd+sc0w+0E=
+		8EPf0gSvNY1hkTfUlCYdz7qxwNI=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/button/button.js</key>
 		<data>
-		fk6BpnsN68XrwJN4yUQkIgeH56E=
+		tDSo5xl7p9/D5dIN8dWkyIi5r4M=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/button/package.json</key>
 		<data>
@@ -14706,7 +14078,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/core/properties/properties.js</key>
 		<data>
-		EPhIown/LttbYJGeML4uRVZXoFU=
+		HUAh/+qmLgUXN77WcOl9Os4u+Oc=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/core/view-base/package.json</key>
 		<data>
@@ -14714,7 +14086,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/core/view-base/view-base.js</key>
 		<data>
-		8JPOMGy9kC5byJfqxU7Pa1GFIdU=
+		Q1IdhNTXAs7NbZWzxCkQqTfOLbo=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/core/view/package.json</key>
 		<data>
@@ -14722,11 +14094,11 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/core/view/view-common.js</key>
 		<data>
-		vRl9jq3KlWJ1fzQaEIEZFVWfxBA=
+		Srebpjsx16LzVFhZPbAgZc3c1gY=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/core/view/view.js</key>
 		<data>
-		bFIh1nPStl/XYL0qyd44IG8rVJk=
+		NxQxkvkItQRmVgRAxx2iOmUSFnY=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/core/weak-event-listener/package.json</key>
 		<data>
@@ -14762,7 +14134,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/editable-text-base/editable-text-base-common.js</key>
 		<data>
-		qdgqaQmEE2tfGxyz0ZfzZ1B60vU=
+		0R+2oR9DSXGS2+PaWAgoc6/xjz4=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/editable-text-base/editable-text-base.js</key>
 		<data>
@@ -14782,11 +14154,11 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/frame/frame-common.js</key>
 		<data>
-		C7IotmyKTToX/Q2Fjt9POuCF+JY=
+		CpCymnH0V6tC1I+klxDGvSPz5Vg=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/frame/frame.js</key>
 		<data>
-		HWCapkNbWpH1/63XofjUk8gM1t8=
+		Pl9P2W/0dvTXQ10ODUylyQcNrd0=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/frame/package.json</key>
 		<data>
@@ -14846,7 +14218,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/label/label.js</key>
 		<data>
-		zU3Y+9SuS3lJ17yCNLQ/32rPxUs=
+		ubOAPxcKjJg4sC3ojIb/0RU22ms=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/label/package.json</key>
 		<data>
@@ -14942,7 +14314,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/list-picker/list-picker.js</key>
 		<data>
-		6fYnuwpv1vwiyH6iJKFo5OsGbmk=
+		yGnVuxlYG1SoDBatujo/XLLuc7A=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/list-picker/package.json</key>
 		<data>
@@ -14954,7 +14326,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/list-view/list-view.js</key>
 		<data>
-		lwC1R+vac1n56U6Z7CaNpUS4Bac=
+		LAvqeDVM5sBmeB0FC6AibvtVgg8=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/list-view/package.json</key>
 		<data>
@@ -14974,11 +14346,11 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/page/page-common.js</key>
 		<data>
-		56f74HHJGvXyp/kIrXGsI7wLNU8=
+		ko3dimIOG1alul9vm6fcHKi/1OQ=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/page/page.js</key>
 		<data>
-		tEVqEzDjUr/tSbI7k4BsPhcpMZo=
+		AsfekSmft/kGGehzEd6jx1DemHE=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/placeholder/package.json</key>
 		<data>
@@ -15014,7 +14386,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/repeater/repeater.js</key>
 		<data>
-		rqp4n4grbuY7G+nHXaZ60EZAImM=
+		R3Mz/pbnHkTtpvsxKevwSr3YOe4=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/scroll-view/package.json</key>
 		<data>
@@ -15022,7 +14394,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/scroll-view/scroll-view-common.js</key>
 		<data>
-		SSWV0BLCT99n5/0SW9JO1bjotkk=
+		YNHA5dpg0dpjdq0CBVUIpbG4CNM=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/scroll-view/scroll-view.js</key>
 		<data>
@@ -15074,11 +14446,11 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/styling/converters.js</key>
 		<data>
-		rYlnMfhN/9EStfseG0NnzKx2cZo=
+		U19Lg8ulODkceji0i5MzWZ0MsSI=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/styling/css-animation-parser.js</key>
 		<data>
-		doEm+5OFEhQ7Vc3ivBRuoKm+jpU=
+		0jNfVKYkh0ssd/jf4h5RyAavJI4=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/styling/css-selector-parser.js</key>
 		<data>
@@ -15106,11 +14478,11 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/styling/style-properties.js</key>
 		<data>
-		Pc2egkzJ5HewaHeo48I4Q+n+zMs=
+		/984AueMn+uxMnRgGNDuS64KWag=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/styling/style-scope.js</key>
 		<data>
-		XrrLR4Py77rUY6ZJFN70Hx4b3R8=
+		FreIs/LUFIgNUKLH2RJOq05fkJI=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/styling/style/package.json</key>
 		<data>
@@ -15142,7 +14514,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/tab-view/tab-view.js</key>
 		<data>
-		7enMVuuP3UClRpCJGlzCJfgK6sQ=
+		1rEKxpQLHUbzpZXrDTPwksE/4NU=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/text-base/package.json</key>
 		<data>
@@ -15166,7 +14538,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/text-field/text-field.js</key>
 		<data>
-		DnTbMx6q5zSlkhXe6ZskR0milow=
+		VCanw7IrNe/ts//Emp0On4jAxvk=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/text-view/package.json</key>
 		<data>
@@ -15178,7 +14550,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/text-view/text-view.js</key>
 		<data>
-		pzG9c0Abn6chg9oT/PLHXemlWtM=
+		mPFo6Xn2yXp4+fu3yU8jsGUFjr4=
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/time-picker/package.json</key>
 		<data>
@@ -15222,7 +14594,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/ui/web-view/web-view.js</key>
 		<data>
-		0WiqzXFLYTQDqXRpvFLhafg2M/M=
+		UT/BjHgt1fARdVIXQ4A+Qf3Yrf0=
 		</data>
 		<key>app/tns_modules/tns-core-modules/utils/debug-common.js</key>
 		<data>
@@ -15242,7 +14614,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/utils/number-utils.js</key>
 		<data>
-		PZKfTpJ9mrwPQ4DszSXy1kZSkUc=
+		RRVZlSUGKJFq5rxT1+pHLPpEBos=
 		</data>
 		<key>app/tns_modules/tns-core-modules/utils/package.json</key>
 		<data>
@@ -15254,7 +14626,7 @@
 		</data>
 		<key>app/tns_modules/tns-core-modules/utils/utils-common.js</key>
 		<data>
-		q0iWvi1dBE2janilk8m0mulhrJ0=
+		CYjLek9cSi3YKmnVKL+4qvjIXSQ=
 		</data>
 		<key>app/tns_modules/tns-core-modules/utils/utils.js</key>
 		<data>
@@ -16088,737 +15460,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Qb0vXsvk+E4kOC+AeZkZioZXAZY=
+			uqVHrCSehFGjVa4Wbcqkpd2wAC0=
 			</data>
 			<key>hash2</key>
 			<data>
-			OoOEPgh+K0bm2hL9iqU3jR4JIEq7+QwwnDGMEfeyDY8=
-			</data>
-		</dict>
-		<key>Frameworks/Bolts.framework/Bolts</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zf3jhlQfnCrwiHams6rF9Bki+5E=
-			</data>
-			<key>hash2</key>
-			<data>
-			5VvmmWSHTiFNNvrrx4fZKRbgEitG3UQGlsv5p27XEWc=
-			</data>
-		</dict>
-		<key>Frameworks/Bolts.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			00HA3xq4nm2B4BJMinXzaZSGj8k=
-			</data>
-			<key>hash2</key>
-			<data>
-			SOxGAuQzTwscU0nr5UUG1+cS5kTkDIzrXZT+u7x0crw=
-			</data>
-		</dict>
-		<key>Frameworks/Bolts.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			w44hM70zzHj2dQSJWJjEPBww4cc=
-			</data>
-			<key>hash2</key>
-			<data>
-			ILX3bzetG5WxyNMzOBtoBYFLAlCyYEz0prc3Or4B9JY=
-			</data>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FBSDKCoreKit</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WJaA2yBJquubzx7pnV90ELBkArU=
-			</data>
-			<key>hash2</key>
-			<data>
-			bRwOy2ekQ+MqsGSDTJmdeWsbySl15zKj8OwdKBA9Ukk=
-			</data>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/af.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BAXnwVQKNuEIS0MfYBd5fm3WzMg=
-			</data>
-			<key>hash2</key>
-			<data>
-			m6FdPmPcI4HQI7c4mT7SMpLTRHtrGoeupynragjKPn0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ar.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PH9MCmD3AYRlV4sgBpIO59GqvQU=
-			</data>
-			<key>hash2</key>
-			<data>
-			dW83+05AD+/SLRk6i/Rj3Sxxnr0IrAkb/znyqhP+sww=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/bn.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HBEOgQUx3P7aEUfEX3uCEQDwph8=
-			</data>
-			<key>hash2</key>
-			<data>
-			VDL4fP2yeM4IdnXzDwP/BAZ2JFD8tMimToVBk7nu+xQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/cs.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ltQdU1GigAx1gIWhohBo5fKqO+I=
-			</data>
-			<key>hash2</key>
-			<data>
-			P5nSzQF6pYYgvn4yYDR6S9g06Of1RlV0mAqII1UqAUU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/da.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3i4r5KCxy0fPOgyoxCP7JidbzGA=
-			</data>
-			<key>hash2</key>
-			<data>
-			1c6ylTLx671t/UsrVZzn2vZi8tTCaPolqK8ZzkoWQKw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/de.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			EGQIyMz+ooVByIMuSkQ4qg1KoVs=
-			</data>
-			<key>hash2</key>
-			<data>
-			2RDWIau3e2IMVUUd9iwiCJpAsxiqXRnqNxIcuBN1Qd8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/el.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eNuNUKEFd0Qskp8kbKfUbR4XWb0=
-			</data>
-			<key>hash2</key>
-			<data>
-			7Rd65zrEQ2qYPLUMyMZWNe7TtYJc/ICUX60yj+DGIsA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/en.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			U5Dz4SBItBNA9+b+/WN8F/AQ1ss=
-			</data>
-			<key>hash2</key>
-			<data>
-			VU3rNTSiFiWEAORU0bdhz5cHJQQfhuNX8Nhs2BvWkcI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/en_GB.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aPoeXqKRh+yMC76Bwp23knMfCDE=
-			</data>
-			<key>hash2</key>
-			<data>
-			rw2NJyOlwTF/a9MB2HacR2qHy69C080QkikDJupZeJI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/es.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BmkkeSDMVcEaSzGr8AeENzMSFPU=
-			</data>
-			<key>hash2</key>
-			<data>
-			D1aEWEiA4i6U2ZEddqSn6luqSDdIO5BYR8xA3Hknpk4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/es_ES.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wciCCvhLzza0rR6/TsUsEeZJdW4=
-			</data>
-			<key>hash2</key>
-			<data>
-			dy1IC37GavWwaeAqO1kEkNVnUCTHfp2VsmZEI2z+IkI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/fi.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hEYNoHApVfGNj7XlHhJ8E2FUF7g=
-			</data>
-			<key>hash2</key>
-			<data>
-			kjHjayWr2ds60rvaubUsJjDg22I52c4cyvhqtSL66YA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/fil.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			L3D1vF/9HKJzJ5kD3cYEivHMY1U=
-			</data>
-			<key>hash2</key>
-			<data>
-			eyAw7/ul8DaYDFAjgLFwbCKJt2ANAXNIDDYD3zdCLQw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/fr.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Jld32n/9N7ix6J15Tppsep7QkHw=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZYnEhxh9ixLW9G5Ft2BK8l40nL//7D6dPsTGo/abZ2U=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/gu.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			JOKxZz37sOAxloOCh8W2pkYG5CE=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZQKp+DSWzDpAJ1LI+XvXbnCPGHdXJcM+jyAWuiRhV70=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/he.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2LBdNACNFAqatXY3l8hanDWwO04=
-			</data>
-			<key>hash2</key>
-			<data>
-			0OwL1kOjqjIp8tpw89rPZmRh/doK8xGUY1NtvG2l4yk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/hi.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3KKhQ5JrGgcg+8Igkkf6Lv+Sf68=
-			</data>
-			<key>hash2</key>
-			<data>
-			1TWL9OgDRrZU/Jt3qqMN0hp5EhP9Sw4hZAFNCM1qoeA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/hr.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QjN5E5dwj2DzO7e7hywC5O4d2O0=
-			</data>
-			<key>hash2</key>
-			<data>
-			KWS/6rBp9oNgcDc/ljCcDolaEfC4tTArPAEVYtMRceU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/hu.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XClwdP8luNp2BE+qAelXzmIdBac=
-			</data>
-			<key>hash2</key>
-			<data>
-			+o2bzG7VVFOwo1pzWY9A2IsT5oNcBR/NYgs1NuSWKXI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/id.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1f3ZzlpOM7h3rJDdJK2GiN6vsg4=
-			</data>
-			<key>hash2</key>
-			<data>
-			5ZRIRnL9Hi9XElKw4R3ZxKC4FrJ2RGuOglm6TXYx2so=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/it.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			W3QUhwNGo9CGqi5PslAbO8dVIpQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			hwzHLtjXEYPSK1jojVHJo1SVRb+QppKaEZpueSdAxGo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ja.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lWhKyPJwc2A/JHUYf9yq0zKYb74=
-			</data>
-			<key>hash2</key>
-			<data>
-			3/arvxEs6rqTl5oNYlnyeU2VHVIadQJUHHiYVIcHC0A=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/kn.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bNsUUPhHlnAdFD2cgWFAkTHzwyA=
-			</data>
-			<key>hash2</key>
-			<data>
-			mFWpDuIKz/d5WPDtH4ZN+2wXbfrXp9UA95mtjQXHy9A=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ko.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bk86HRfylH2A93Bhadm/RYNkPCE=
-			</data>
-			<key>hash2</key>
-			<data>
-			gg+C8WsT8zLCfB2iLbI9QpiRZ1GYRBKWO19R8GrMiSU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ml.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			NdJDYq0zeCXiQK4iZCxUVWV1Z0I=
-			</data>
-			<key>hash2</key>
-			<data>
-			pSr8WiqI2tJu+885mXvyh4Kouy2bJ5JAs5GkhFiPjFw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/mr.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			D+SJ3VQ0SrGHH83LUsqCvRJOreE=
-			</data>
-			<key>hash2</key>
-			<data>
-			KbmOPEXeSeGcRdvX0vNjwZsXmFrpOAT7MT9VST7egfk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ms.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XGOffR8CIC5UKgks//c9UP4CMZU=
-			</data>
-			<key>hash2</key>
-			<data>
-			eYR9W6R16eh89JNd7yf99Sgs7vbpGiXe07xMsmtVMvw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/nb.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jH9qEXsOp49HCBIAABhaX3Dt3V4=
-			</data>
-			<key>hash2</key>
-			<data>
-			GBuNItNQpp/AnSOUSd6oN1EGfWBWiIlfN6/CV0ZvWCo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/nl.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KDkRSdKlf8uuRkvC8EmoiGNyTms=
-			</data>
-			<key>hash2</key>
-			<data>
-			JCgNMRuEGqxlUKTHbGfp0tEV6jPwIgdzOCsL01rhhI8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/pa.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5xNTg9XVEB+Zqyvaw96C1U6Xq/4=
-			</data>
-			<key>hash2</key>
-			<data>
-			zyVEX3yJnb7NjngNw8rJygd79yLLkaXqos2iXjol4r8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/pl.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Ik9RioEnsVQc3KmlUfpnjQzu/Fk=
-			</data>
-			<key>hash2</key>
-			<data>
-			7OB9iv34U6i1oXBhlCUGb+hQy6l0qH9Zzrf28wNcd0M=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/pt.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9W1Mk9442r8qSXoK275VfHABkKI=
-			</data>
-			<key>hash2</key>
-			<data>
-			irSWPGv4Z6RO+dlGZCLIlPV3+q4gmAIzgQFN7CzmO5Q=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/pt_PT.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9Y8Af4N32FMQFCO9NqOSRg494LY=
-			</data>
-			<key>hash2</key>
-			<data>
-			OtRnG+Y68314ztW6EtLfDeO0QT4INhKmLtDWJMXJruc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ru.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8weDrzHkvhJnsmCAsFucggjvWZ0=
-			</data>
-			<key>hash2</key>
-			<data>
-			oPMpfsbFB4UUskjrgAVwvMJbhbdEcW28AuCqtfRmlFc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/sk.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8gyEXLfWBF3zB0G8mHeyKUIJ2rQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			JgW5/RELKo5EDpFu90u7GV9KfA/NQTxOk8wRmSoWvA8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/sv.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YCYrhnduPSvwwWIJFh/yo/ubhT4=
-			</data>
-			<key>hash2</key>
-			<data>
-			nxJ01EtCcsE7qC8+6n7F39BQaRuT3jREZJz7Y/VymDA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/ta.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			L52689yJnVbx3XzeTt6a7JDevgM=
-			</data>
-			<key>hash2</key>
-			<data>
-			euQU6adD5325ed/bYZU8FIuLmyXThXkazv+p34Vnu64=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/te.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			iPacfIxHcCRN0qZhCyElaeMAnP4=
-			</data>
-			<key>hash2</key>
-			<data>
-			NaSNp4r+3/Q8GNDX69JRorGcm/yRpfv7SWszcjRqark=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/th.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PwsgsPkKuOpJBn2NgQx2dpc6yuM=
-			</data>
-			<key>hash2</key>
-			<data>
-			tb03WH+joRrvailt8Min1NOnY4k7Qje52Eh8vIubk30=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/tr.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yIOsObei4te8Ksl7tt6ahZtk5D8=
-			</data>
-			<key>hash2</key>
-			<data>
-			7ubaO3e9OCFx4H7YDWbwUsdTZcTf3Tqkghi5bej3uf8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/vi.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lQozK3CEOSNmnVVYvPGxJ/+V/D0=
-			</data>
-			<key>hash2</key>
-			<data>
-			hJ7yUuBmqM7Ds1UXYpoVXcYJSAWBGNbLSDrtk2aW+Xc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/zh.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+i+rIySVtOBmhsRoQp5ttaSeEnA=
-			</data>
-			<key>hash2</key>
-			<data>
-			vuW2uxqiuU+AD1cegY3BdqBtSAsyc5NOBUK97JYJNSA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/zh_Hant_HK.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/U6SUzuq+fe+mlIEhnXpv+xIsQI=
-			</data>
-			<key>hash2</key>
-			<data>
-			KvRNd6dMKax1utHm+6xjdCcqXH3CDoVIw7b6Fp5LQ/g=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/zh_Hant_TW.lproj/FacebookSDK.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fN8DmDyrCWIvVKiPP41KYhj74g8=
-			</data>
-			<key>hash2</key>
-			<data>
-			ujsF8ccZnuNrCI9A2j4t6HQPPooc8NQ1mljzgR/93tA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			72s81w3MCZThnM5EOQB2dlVxArQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			tSc/JYK2EZJ5pvPk8W/m7bnTaxO2pJ6hk1li0up2N1A=
-			</data>
-		</dict>
-		<key>Frameworks/FBSDKCoreKit.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			qp2GT90r+U164b20cIhJ7MaETF0=
-			</data>
-			<key>hash2</key>
-			<data>
-			1X8KK9Jxw2Qis1rZaRfnk1Fmgz9Q0EjMCWwRVKCWiAY=
-			</data>
-		</dict>
-		<key>Frameworks/FBSDKLoginKit.framework/FBSDKLoginKit</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nVvslEBLc279N/Z8GPoEHqsm6Vc=
-			</data>
-			<key>hash2</key>
-			<data>
-			XNnds8EB0s1rVe5t+8EX2Hd219+uo82jVm6r5rjFxjs=
-			</data>
-		</dict>
-		<key>Frameworks/FBSDKLoginKit.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			FLkz2vSmi77M8keM9q+DVDeXUo8=
-			</data>
-			<key>hash2</key>
-			<data>
-			Ajwvk81xBvGAV9qHaU3Ecv+ZLicZTk+LPdgxMLEtM6s=
-			</data>
-		</dict>
-		<key>Frameworks/FBSDKLoginKit.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			en+jeKREAuHNF7MLe7gvdGq6iD8=
-			</data>
-			<key>hash2</key>
-			<data>
-			5ydtuN/sHnZTFPbCunW/athTlgprY8hbidYJRZKhI0A=
-			</data>
-		</dict>
-		<key>Frameworks/GTMOAuth2.framework/GTMOAuth2</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kToOdY31ZUb2suPLKVSvL4bY0aQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZVZkxFzcYbGBDXVwkgWPAoUuGmvLsakZSqnDvB4DmoY=
-			</data>
-		</dict>
-		<key>Frameworks/GTMOAuth2.framework/GTMOAuth2ViewTouch.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			S2AzRbn9X6oAdPtVuV6wujbvfqM=
-			</data>
-			<key>hash2</key>
-			<data>
-			ioDxj3kONCq/USAvWeWCjB71QunO86LJoHnS2Jfb5Co=
-			</data>
-		</dict>
-		<key>Frameworks/GTMOAuth2.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oYDFK2IMGX18gydooVD5SwOJGvU=
-			</data>
-			<key>hash2</key>
-			<data>
-			veqOWEKLYW4Jn2P2pE7H+azlGEPrySZn1+V2QDWt+7c=
-			</data>
-		</dict>
-		<key>Frameworks/GTMOAuth2.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xoxCP75/I9X/KaKsuTtjC5/9qss=
-			</data>
-			<key>hash2</key>
-			<data>
-			2Mqys/mudEmFLnJbA4TQ+0H8fEoVoRy8wsOYGUxrNHY=
+			4Ft3G8L04leVI48BwVYtV6diR7Xid6mjkmr6XLi4emw=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			F1n9R7eOMrb+JhccotabTCxmAfI=
+			ihJwuLAIiJEcqTH8WuNFK97+FEM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ogqtqljjRsMSDefAmcQfX6Aqg7BWCjhJ/hhHj9FblMs=
+			yyy6G//eS2/JrPM5sDdfNqCDQFRN+4ATKUKWsFEq6As=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
@@ -16847,11 +15504,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			c+Sk7Ddr6xbunNOUEWVWvGq4ORg=
+			faO22LwLwCAp+zFzbYIgIUabCsE=
 			</data>
 			<key>hash2</key>
 			<data>
-			KDTZMR+2ybX4MNJYAOxO/jKNBiCmPf5b2DRSw5fieas=
+			sVtV2Pt2JWG8okPXtUzuipm1xa5WiUVzFrUK1qlCp4I=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
@@ -16909,605 +15566,82 @@
 			kQ5MATrGHKGLZU0HE0a3u/DSMvwJB9QuGxUYjzBrdh0=
 			</data>
 		</dict>
-		<key>Frameworks/Protobuf.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kr/sTXhV/BHZ7qnajbPy7dpMwLA=
-			</data>
-			<key>hash2</key>
-			<data>
-			Qi/xsAt2BzbMlUS/Mf59kwFEU6TYE85tGHoZ4JG2p18=
-			</data>
-		</dict>
-		<key>Frameworks/Protobuf.framework/Protobuf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rEhQGzxlH+R7Uc9nn6j9UzyKVdQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			4hVgG0QmC3keBP2AxNOA/Hb0AIuS1CxAnVLoiE4tXpE=
-			</data>
-		</dict>
-		<key>Frameworks/Protobuf.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zcKtEewj0CSsOIeQ3c4+zXcnN7o=
-			</data>
-			<key>hash2</key>
-			<data>
-			mY6ZcnQrCHSDsKpR48Sp1dLTirkPaNTlxESJwFpYCZE=
-			</data>
-		</dict>
 		<key>Frameworks/TNSWidgets.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vVYyamLHGQPwqy/hCgV1ZXN5xaM=
+			NiB/GB2kylvKWIwFwX19/D505aM=
 			</data>
 			<key>hash2</key>
 			<data>
-			GzlHq/IUgYTAa2f5rg6Qaz2iGzVxAbueXMBOd5eoDcg=
+			VQSFTLPCS5gs560/sAoZ+bOfG+k40MtgaA4jdeR+vaw=
 			</data>
 		</dict>
 		<key>Frameworks/TNSWidgets.framework/TNSWidgets</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C6W2LVF6elTjUXSUZ6ucy/Bq+QU=
+			ahKw6UZ0efBE1eW1ItsE/uiu7zM=
 			</data>
 			<key>hash2</key>
 			<data>
-			B91GOEafoZiO0jK20YqObwxV5J2oDs0pIzGmChf47KM=
+			S9tgXXYuSRIC11Wxwc9yxt4ophu0auyCPOfVbkC/d1Y=
 			</data>
 		</dict>
 		<key>Frameworks/TNSWidgets.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EJV7PJ+s07MCCqBqLs0KuXCfqyw=
+			gqDux4KXR5LwpjrHLal1t7HA7tk=
 			</data>
 			<key>hash2</key>
 			<data>
-			SIjrGkfG3U1fTJM7Vscdm4QDl7nu9dJQnR5qPHApdLU=
+			JWDc53/RKWuW8F+uTmGsFvHwYlTlIm89dFkXlhcmEPo=
+			</data>
+		</dict>
+		<key>Frameworks/TelerikUI.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			V/lpkoyy6AsBnYnHouWqyiTBjLY=
+			</data>
+			<key>hash2</key>
+			<data>
+			uva46nyjwK7n/uZTm312Gdh6g1AyGTwOVQjpByjNvy0=
+			</data>
+		</dict>
+		<key>Frameworks/TelerikUI.framework/TelerikUI</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kLYTBRXjhuYEyI9D0C2rKS3z3YU=
+			</data>
+			<key>hash2</key>
+			<data>
+			us1KJD79eCpR2/ZxyIyDGIbADQfKYS3IBrFNZrbxkDE=
+			</data>
+		</dict>
+		<key>Frameworks/TelerikUI.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ePcMhOG7SGsMZMT/CY0GI7zHTsw=
+			</data>
+			<key>hash2</key>
+			<data>
+			RK12tmu746P78NPE0y9KdYOPepOQ24Pas4CPFDQLn+Q=
 			</data>
 		</dict>
 		<key>GoogleService-Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FW2Idh4oS55Kzz3Swr6PvQStvRE=
+			ylp3uclI1svNOh/HacDShZXAHBs=
 			</data>
 			<key>hash2</key>
 			<data>
-			fDPOuWCwg5w+47vjhMidbiEqmEvKMs16Wq57XlV2X6Y=
+			vcFnynvSIa9a63ZhXouI2KWDOL9rS5p9R2dotfqQuUU=
 			</data>
-		</dict>
-		<key>GoogleSignIn.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			crpRzFuQ9ZvKhMPCppVFY+N8cyQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			P62KEtadyyGFxNAtD0gVfX69it1eoz/qReexokf7zyE=
-			</data>
-		</dict>
-		<key>GoogleSignIn.bundle/Roboto-Bold.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RzJ98PNefNfIZFh0iXp0SWl1RK4=
-			</data>
-			<key>hash2</key>
-			<data>
-			WU10pJ4we+fMnh7l8QI2hOaCDPEbzJaL7lkDkeGtWlo=
-			</data>
-		</dict>
-		<key>GoogleSignIn.bundle/ar.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cDxgICm2dFjfiPeYCfTua06ieMA=
-			</data>
-			<key>hash2</key>
-			<data>
-			QeWsAsqQdz3nqtJU93kytvszFvFRLmw0W1h+Rmlwfho=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/ca.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jxk2OQG/+udN2wGUOW9Su8bozmo=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZfmeidsaGhR8JQbM6KjQwYNLlpei2eDR3UKkWLBcuhw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/cs.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3SZfPmiX/uNms0dfyvpJ2YKfYAs=
-			</data>
-			<key>hash2</key>
-			<data>
-			kx9XTkE8E6q9RP94Pjo1EQQtF+LVoAsHtrstRw2/o+k=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/da.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oIntgdmNT8vgklolp0V1aSwni9E=
-			</data>
-			<key>hash2</key>
-			<data>
-			Q+HbBsKMKlrhfMNDnDtpIXaoETHxGFFSgxsXN5U5ITs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/de.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+r5IQg8vmMQGofVbtTfuIpAkegA=
-			</data>
-			<key>hash2</key>
-			<data>
-			HSf39naS/xqZ0zmjV2eRJpqEQ/XXahiRZ/TzW+2lmes=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/el.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			R4N2/n6PLvdXwzPAZSdBIQ42i5o=
-			</data>
-			<key>hash2</key>
-			<data>
-			RuBwkBJ32OYhWsxkWpWiQm/kYRJjmcT7qxwABqVu9xM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/en.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2WBjXO3mOTycjDC36lU+OkTmMQI=
-			</data>
-			<key>hash2</key>
-			<data>
-			5oyYC/GOYosb/fhfcdtDWh/ZIn9spDhwbqzhHacw6dQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/en_GB.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2WBjXO3mOTycjDC36lU+OkTmMQI=
-			</data>
-			<key>hash2</key>
-			<data>
-			5oyYC/GOYosb/fhfcdtDWh/ZIn9spDhwbqzhHacw6dQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/es.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1L+WhN4hHZ+DMGL3814nf230sKU=
-			</data>
-			<key>hash2</key>
-			<data>
-			rvLIqlTvGX2MdaFGD4AQyZRK7VCiKDsMAqPLg/fx0vk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/es_MX.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5DCiJO9D0jvvC1MdVuH87FoKE4U=
-			</data>
-			<key>hash2</key>
-			<data>
-			Pe5RKPisvYpVr+z9xL0ETLp64N4F5eaoALJlc34APa8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/fi.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			P9wjOJ2NnRD/MprJTtHsJv4WuYs=
-			</data>
-			<key>hash2</key>
-			<data>
-			2jqJTq0bel6ohlwvErW+mfDMZ9SyU7XbfVxDJFRRoLo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/fr.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aGMUV/zy0qshVO3EGOASJGzb61k=
-			</data>
-			<key>hash2</key>
-			<data>
-			CceqS0KGsVkiAAaIngsMVpQkBbOgAoss+5CMTUce5cM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/google.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			guERtxRSG8LklxczLu47JIwLjiU=
-			</data>
-			<key>hash2</key>
-			<data>
-			H2IokCB8oNkRwgBLBEZLd0w6oN+iN1BU/iAZdGyDMKU=
-			</data>
-		</dict>
-		<key>GoogleSignIn.bundle/google@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4UwXGGzo+UtMgR0hUDrtRbq4Wqk=
-			</data>
-			<key>hash2</key>
-			<data>
-			Mjq4n6IBYa2yGeFxUDX5MS6Ty2kwi1TyDkPS11aFwLI=
-			</data>
-		</dict>
-		<key>GoogleSignIn.bundle/google@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			A1wRWy89eRjMuVCP4K7S0AClNTw=
-			</data>
-			<key>hash2</key>
-			<data>
-			vuNrWCRZeBKrexqD2NEDZOScuuIxG5X6EYoYNxvcJlU=
-			</data>
-		</dict>
-		<key>GoogleSignIn.bundle/he.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rH8HlR4pGTObGw8bLy8hV1SaXCc=
-			</data>
-			<key>hash2</key>
-			<data>
-			GG5Fd+wnZBEcg0OkegzcIjWn9HE0QZGfSR+3KnrtAxM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/hr.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6RKTTGxHRy/nJvmB8Z60EcU7AsQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			wEHxJlEbvLb7hU7ofL2FfDX13pJ6dVRAjuFznjDnlp8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/hu.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UYII/LAIXTZXAQZRhu8m6Hzo5X8=
-			</data>
-			<key>hash2</key>
-			<data>
-			he/9SVQjyA8PYs/R2dTeLOf9igAcPguZC02CsESsEqA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/id.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LL/K3xbMTK7IG6Qk+QFcn6ZhpHA=
-			</data>
-			<key>hash2</key>
-			<data>
-			RLK/rHW741lq7AOEDitscgdXlB0y9xumOHvxKZIodA4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/it.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ngy2avHWwzrEJh13Pj0rUY8J9ww=
-			</data>
-			<key>hash2</key>
-			<data>
-			JdOg09soRkPdvJSxgiCfoskvU3cz6ELwTi+4jYOXiJM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/ja.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			db1eHjFG5mTeudktpC1Ot/Oi+80=
-			</data>
-			<key>hash2</key>
-			<data>
-			Ong8D3nhGWQfs+yRetHtUHhEaFms4f1xhM/Z/k5Ycds=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/ko.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jULNLvjmokqVD3UHXOmQk+ZBjQc=
-			</data>
-			<key>hash2</key>
-			<data>
-			7o4SjvNEt5bfDcNBXGs9jMLj1u6eoMTEE5+6KeDoIU0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/ms.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			unBXa+ccwraCiXztEmucSgJEzP8=
-			</data>
-			<key>hash2</key>
-			<data>
-			QYe68xn7iXAZTFhmLehys+s/yS5C3fdgen/jns/deeM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/nb.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zTewpBsb/APJbytq7A50tSZ2bFs=
-			</data>
-			<key>hash2</key>
-			<data>
-			dkpsHzBx5MRCV8wgSIlKEsNLFsFbsa7SKNEvnbyc9ek=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/nl.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vI3aDgwEwt3VJMFBK8qJAg0Ko5g=
-			</data>
-			<key>hash2</key>
-			<data>
-			qzhg8aNd8zVLpTc5QRYR/MhH4dAZh3iAOAYkz+o0XvU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/pl.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4m8TqoloX4KRLKngPPKzv9TLWXQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			c+PbYoLry3AjLPAvYONHcVl60jfkYpgDVwfdbVGOG3A=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/pt.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yWB/f7My2pU8Dx9fPakAFD3XGwc=
-			</data>
-			<key>hash2</key>
-			<data>
-			ctPMiKEB/qnRRu3wweYrj/UUYBmhKJjEBW2sIW1dyyU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/pt_BR.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yWB/f7My2pU8Dx9fPakAFD3XGwc=
-			</data>
-			<key>hash2</key>
-			<data>
-			ctPMiKEB/qnRRu3wweYrj/UUYBmhKJjEBW2sIW1dyyU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/pt_PT.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IUy+LgagdPrchWvzRocfuAOUl6c=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZJBKeZJOir9VJLitpufUU42wpNS5VZPl6Y0fImF55xQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/ro.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XbTLbsoyl3Kgy6SWtyoU/xgnOU4=
-			</data>
-			<key>hash2</key>
-			<data>
-			VW0ZrNINFZTWcvwG9EIgMvXVxn9YA70KP45Hg4lRLE8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/ru.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fpOOLcC4LVN6RY0r+k9g1nK8OBw=
-			</data>
-			<key>hash2</key>
-			<data>
-			TGe/eN9P18suxLb7X1mwbCtoNXRIfxxwaJQTPvH5Cco=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/sk.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1qRPYCxnnE40LluJvBG62vyh/9k=
-			</data>
-			<key>hash2</key>
-			<data>
-			Vwb9ExTGe6S5S7BTegcLSteiFFhKKwZZSJYLzlqESZg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/sv.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gnOdeN9N3tSEMs8tka8GZZcoiGA=
-			</data>
-			<key>hash2</key>
-			<data>
-			yvueI88V8Lz3pz/ZmgDyeeD8hhunccQ5PsRVApQp6Mk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/th.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Jt50UKMQoMZOD1aZlFjHdvxWbUU=
-			</data>
-			<key>hash2</key>
-			<data>
-			VjLtxICcSKnA1/BjlPISUBu68sr0thGR7cBhnGXp1KM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/tr.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MojegLj+aw/rwcX2jRoNMe9kYOs=
-			</data>
-			<key>hash2</key>
-			<data>
-			ELN9x8rZefXceZlX+h6q0+KdoD9/KfgwWV30ZAjhahs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/uk.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DVT6LBWhlbRFyHW4QoctIqtm4JU=
-			</data>
-			<key>hash2</key>
-			<data>
-			tfJEysLSnJZ9Vr8e6QHNx6KJkHl9HZogS1ByD7KFIpI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/vi.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Xxgd4c4pIpGwWTLVSmbZJ9ZelUY=
-			</data>
-			<key>hash2</key>
-			<data>
-			CXFonEwOB280/OyTZgekOcnf7cE3aLu2J8YjQTb3G6k=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/zh_CN.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+FbfptuiJTrUGwKylxTvwQZvv1g=
-			</data>
-			<key>hash2</key>
-			<data>
-			WYAJ9XvPgbNJDvefceY76te5PXwpDAhwKxR6NEC2dCA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleSignIn.bundle/zh_TW.lproj/GoogleSignIn.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BmkG1GdZVSsmsERs6T99Ve1Eb6k=
-			</data>
-			<key>hash2</key>
-			<data>
-			q9cnMFn9ze7oe33zAJd++Izm6xzT5qn1FgoA5PwoNcs=
-			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
 		<key>LaunchImage-568h@2x.png</key>
 		<dict>
@@ -17689,11 +15823,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IesE/9HK4GT1szLj0BPBSKd1XH4=
+			ffjfIIHyauCxPlMod4cys0E8zro=
 			</data>
 			<key>hash2</key>
 			<data>
-			+kxa3/PvWyT8rKa5RKwkhepEoKLCdffeoqagofatUn8=
+			U2G+rgfqwuy+uo4Zf207uR7/ny0IiI+thNC+rdTfHXM=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -17711,11 +15845,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			b/WZ5zubXJzIs5SnBKh2szus5DY=
+			XNev2rSE46HjJ0Fb1+8THFbDKLU=
 			</data>
 			<key>hash2</key>
 			<data>
-			uGkbGq5Cn/B9bH+pU0HUj05gHxWjG2ytcI6cSW4aBGo=
+			mfj69ZZWWxgSZss/orMz3ptcXyWb3hLsxLeT8FfXEf0=
 			</data>
 		</dict>
 		<key>app/README.md</key>
@@ -17766,11 +15900,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			J5U73HsW1gooLvWCgQgNFF3dNms=
+			R1nUKso7UXUW8n62GuK7qOOdvQM=
 			</data>
 			<key>hash2</key>
 			<data>
-			JKCBtZUu2L+Fr5XtIQLGcbslzN9Lk+jJFnjWt2t/LF0=
+			x1c3az/sfyp9tiPWb9h1kbgtE6g9MmcVIJOxi9xrvq0=
 			</data>
 		</dict>
 		<key>app/app.module.js</key>
@@ -17815,6 +15949,17 @@
 			<key>hash2</key>
 			<data>
 			1Ths+/NiBrEx0ohciqjS5vKh4u75QIHEBwwZBe3F8Mo=
+			</data>
+		</dict>
+		<key>app/fonts/fontawesome-webfont.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E7HqtlqYPHpzvHmXxHnWaUP3xss=
+			</data>
+			<key>hash2</key>
+			<data>
+			qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=
 			</data>
 		</dict>
 		<key>app/images/apple.jpg</key>
@@ -18030,22 +16175,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			YmY6+YQnUlCRSoRfAd6pUdgIeMg=
 			</data>
 			<key>hash2</key>
 			<data>
-			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			W2EDdOVXnomfDAnqyY0dAUPFejMCf/i9LErX5alNPlU=
 			</data>
 		</dict>
 		<key>app/pages/home/home.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4NDPGjdCCmLY6xyJozW0rEvVFxg=
+			yJjtEM7tP+ZXE+JzkwaDUPdL3sg=
 			</data>
 			<key>hash2</key>
 			<data>
-			y+NLhxCPGDJKNL+CZZudbL1RBYDRNbPioED3LkKjn28=
+			XjsF7FJXYLNjDEtU/VHWJUqoqkquo4hWJLKM/kc5GPY=
 			</data>
 		</dict>
 		<key>app/pages/login/login-common.css</key>
@@ -18063,22 +16208,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PzuB5pWVfe/MfRFl4Qah+lSk/+s=
+			AT+cOrMjiEpWHZ4KQGqGEoQdw8M=
 			</data>
 			<key>hash2</key>
 			<data>
-			sUZSq4wgg+iDp6J/iarJLdPeN0ex2dqYAjCKsyKTyOc=
+			DPS4EOmM9Df09nlNQKPOn5BBR2MZPPBrEKT3NNqDVQo=
 			</data>
 		</dict>
 		<key>app/pages/login/login.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7Od/VqIgzCAGC1tGF5dFt639SEo=
+			f7JEwM5jt4Fevs9tHlXJA/fKdAs=
 			</data>
 			<key>hash2</key>
 			<data>
-			5eB2h3R7dHrLRIwPOQ4c8cDUGj8u9lWLvxKVlLWbdLM=
+			CCiIAyS4vkO3ZLu8ZE6yO1//xNje7qOQd14wv7v8ahM=
 			</data>
 		</dict>
 		<key>app/pages/login/login.css</key>
@@ -18107,11 +16252,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tIKJbjsx6jJpyCQRqhYrHGYFkZc=
+			Sca90qN71S3BtbbSL+HpPJRQbfQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			T9+9gs+IQ8q842s1Tl/COqSMXoPQ9n3mCUBmqRmMsBs=
+			xcswuxb+J+BZO62qh6br5ILL5qx4kqCJUjIIvmy+n18=
 			</data>
 		</dict>
 		<key>app/shared/user/user.js</key>
@@ -18129,22 +16274,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			N3EMUN1NB+uIkNvqy9jnbYlpGqM=
+			/n5xsQ55jjGfVZKF0T82QzeTVrk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Lv8Ox5G74KXn3j8qFdavOGyj/VQAxcKIMTkqU4vQ2po=
+			5n7G/1/Jv12wcWjrDC9cqjsPjJAZsFGDdZeez73hang=
 			</data>
 		</dict>
 		<key>app/shared/user/user.service.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VkgiPY3nk6VipPEVOojykafiZeU=
+			P+lDVvJU8NpM8C+1bOonTyAx9ro=
 			</data>
 			<key>hash2</key>
 			<data>
-			9iW/ay6mDF4QvAFMdCv2yZ0noAhSgC+Lh03FAO8jy00=
+			LgQximgZuPA3meljnk8eVZ9IzK8pfnd/51UaxcZo6B0=
 			</data>
 		</dict>
 		<key>app/shared/user/user.ts</key>
@@ -35855,6 +34000,380 @@
 			<key>hash2</key>
 			<data>
 			zLFAeY7DUDrNN2lMpvW/hc6++2Ncfb474sgKPzH2qT8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/LICENSE.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hqV0Uc5NrKGZq470wL2fdD4TghM=
+			</data>
+			<key>hash2</key>
+			<data>
+			U0K+arrWWzlZ6h/sItxj1KgOA51dY5tfpf5haPXd6Io=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/README.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Xh/541DTFro/0UzUbearyG+ihwE=
+			</data>
+			<key>hash2</key>
+			<data>
+			Fcd7fa/qRB3B5iJb3xdyJguBPUkEzQEKfjKcm1HuPkI=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/android.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			T4LZHL72K2MiUaaGzqSgR3nGMvI=
+			</data>
+			<key>hash2</key>
+			<data>
+			MMpvUg8EuNdmPCwd92hgYhTVr6dBQ9QtKNXhGYPmN64=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/ios.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nzpe3xTYzOZyjYYVNcqWOHm+qqQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			M/5RbsFEsXvo9bDKuDmO1neLDUQaNthcV8uQ4pWsZXY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8/7GOgqDmbTVnVbjcpYAurlx7Ng=
+			</data>
+			<key>hash2</key>
+			<data>
+			Itmi79OCGq+f4R+M4b/4Hy3UGlNF/inIY6J6x+HQn+Q=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/index.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/Bedm8IJqQqqn9dcMx0mhyTOnq0=
+			</data>
+			<key>hash2</key>
+			<data>
+			wgfDL/GHfedF9q31/b6jeEf9JEC8EHwbBrBrFvaX7NY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/index.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZdyG30ZfLqyY4w5BEpCZnB9dlg8=
+			</data>
+			<key>hash2</key>
+			<data>
+			/IQ+GZ6zjbDj46PTcAEOYF49GC/ttZVhRw8wgugMEY0=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/listview-directives.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ixJASRyZI4W1YlIAfDJsUSCoY8w=
+			</data>
+			<key>hash2</key>
+			<data>
+			FAtTJB/BToA5W456SbU810AgSlWu4tZgysp5wsFY1OI=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/listview-directives.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7py3tsjyqHt4gtWsGhL5VTimBJM=
+			</data>
+			<key>hash2</key>
+			<data>
+			WXoBRl/qg0GfC2ugH7U4cY5CkTTW1sGZ6h3/dQPf5uc=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/listview-directives.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kCaakrRycg3dbeSL2eg5KyfNS98=
+			</data>
+			<key>hash2</key>
+			<data>
+			FXKpdQxDmZWfylmh/mzLh6D8qC6nOJPrXuFJqP7DfZY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/angular/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qDuj8pZ3dampScOMdR9rGVRSh9Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			cSu8ObJrdSIGnBX6Gu/J6KhdZZUVkox8eZsjiGrBVH4=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/x5vfs0ij7NmSYXmwVEM9vJH6J0=
+			</data>
+			<key>hash2</key>
+			<data>
+			mLweBOEnc5J1dKrREuT+E8NsIHX5d6Z+Uxzh5pQGfFo=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/listview-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DU3PIRS01pQtbs3405EhLMQiSrI=
+			</data>
+			<key>hash2</key>
+			<data>
+			p7Twjc+M70ZbWbEorcXaDccXimdQ/hREGPbFkpIP7r8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/listview-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nmKLAYMhtDhhL4p9Bwa8hZiNWmM=
+			</data>
+			<key>hash2</key>
+			<data>
+			nKI+0kCki9pdXWbwvfFtzKByg1hK3jFvVabIcBtBpCU=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/listview.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1zlrNvGoskUyqUdUeXGZki+8S+s=
+			</data>
+			<key>hash2</key>
+			<data>
+			EGyFMb5KyGCVQN8NZfRH9coMnLAlTwVc5qSnlfpIY1U=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/listview.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nFUpKrQ0FhpcDH76xWOP3VCOois=
+			</data>
+			<key>hash2</key>
+			<data>
+			npA4dzOfJTP3He/Jeud6wBoXvTDIf26wY697HBWXZgc=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/listview/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7gxFgexRBDmpi38M+BAlYN1mZzY=
+			</data>
+			<key>hash2</key>
+			<data>
+			g+PJSdCsUYVUH5nV7+wYu8alYayx6zJgyg+s/0+/8Kw=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			akA/M5jT8PoAm7pbfToS9POfURs=
+			</data>
+			<key>hash2</key>
+			<data>
+			pwbwBFXqharnTX/N23FO4TT2IYJwNLdAzzSORn773CE=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/references.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RZ13sVzSxI2SI1X4lEdyBhoajDI=
+			</data>
+			<key>hash2</key>
+			<data>
+			DIQdMONJ1btuaZHSKCiGaO5e+96sZ+kjfZueBw4xaMY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/scripts/email-prompt.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MTDCmsy7c+m6pPgl/iNq7p5FEuc=
+			</data>
+			<key>hash2</key>
+			<data>
+			Qq/zmrAOSZL6APrcA4jE1ZZqKGA+4gLB7JuRlFjraPw=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/scripts/eula-prompt.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lGby74RkA+Z9YckfoOUMbRQi75k=
+			</data>
+			<key>hash2</key>
+			<data>
+			o7GapOe8pNBRy9tSZdHaBM55E3sC0tnbZrscp7ONiPM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LIl+G7eStqY1TmWgHVySj62TVPQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			XyVCaMH9nTC20XcYJDo6srr7IWZR4nEcL8JuuFO6yKQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/index.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LRYFCpvH5Jk8yxNfvAPt1zzU2+0=
+			</data>
+			<key>hash2</key>
+			<data>
+			1mtpI6xCydAGG9jcDzTSd7zK6tR2kmD6SALiqDnR7O8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/index.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			45IAL2tPtbC3+Bk4M6zqc+x44Lo=
+			</data>
+			<key>hash2</key>
+			<data>
+			QIO4DwtVUylwAmEGXGYXyc5O9JiEieeI7e9k4PpY4mQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cVLjLuvH4WgHhVeuPS1GzIdH34Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			WV+3djHbYoz0i4FEHB7LB31EyQ+Yvxpg8XinNGobxXM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/side-drawer-directives.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dSRT7h1tLaOu/Pedlt8EMfCAvUI=
+			</data>
+			<key>hash2</key>
+			<data>
+			uFfeePv4CiKI2L4C9aTwgo2i9YvqpTIbw9Srrm/hn9k=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/side-drawer-directives.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DG+IJGwBx7XcV6gpohEib9ibSm8=
+			</data>
+			<key>hash2</key>
+			<data>
+			o1T1cuqTtFUathhma4f2zIe59lYW3FYtuMw01BYN59k=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/angular/side-drawer-directives.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Tq9zzub3kcXUjKof4L5+hoVkg94=
+			</data>
+			<key>hash2</key>
+			<data>
+			yhPOBw+7VtulvFfN447QqE+I5avZlXvazQKF+ltRnUA=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JQ/+kKgLIaoXtQZ9NqOtgkYUTro=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ll9WQUIS1WVUvCyhwgUntIENMz22lPDCdHN/0jOrufc=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ioq4R6C3uz4y4TViY+uxIZutq6E=
+			</data>
+			<key>hash2</key>
+			<data>
+			lsZBtgxoZruTc8/TeNzMRaR71zGPKtPt7nT3V2RwRnk=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/sidedrawer-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IHqNRDWf1TVPHZJ0U/PsIFd95kQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			+eEw2KjxXHCS/H7hCQsgBiYaf27FpHWpCBNLMyVV0n8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/sidedrawer-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			onI0WjF0L9wvn16zoHHtzc3ZzNE=
+			</data>
+			<key>hash2</key>
+			<data>
+			0sWlk4i9zS6bAV3VdwVN5o2mYQmxOgiOaCVQniH9CxQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/sidedrawer.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5q0UJzQTMCJP1tXgD/sfqWbOl/s=
+			</data>
+			<key>hash2</key>
+			<data>
+			arujt7wqWaAAdCzDTPeZAddmThLD1bLQ6gPnUfDKaNs=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-telerik-ui/sidedrawer/sidedrawer.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5nbLlokStLT4L8kPrCtwWYZhwuY=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZgZid7Yl2bOjGu4ssbG+VYbC0u0LXs9/Aus61v9IxbY=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>
@@ -54176,11 +52695,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YhHi4HHs6KjLPR5WKr5XLzyVYU4=
+			XUedPC7DTvIbIKwwkCxkaJdcOz8=
 			</data>
 			<key>hash2</key>
 			<data>
-			iSMuvJMt4X58iO/IRNw7yGk0tNPOdecMguHcg8suThY=
+			3bKlBpBezLRAGFYCEJ93boPQK0isQ0/dbe4t6ZmGftE=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules-widgets/package.json.bak</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2k+dWvbEbmpMwzbrC8L0YLl52y4=
+			</data>
+			<key>hash2</key>
+			<data>
+			wvr7Cmu5wYOwkDEnHFpJJonQD89rGwWETjW3zpXRFBo=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/LICENSE</key>
@@ -54513,6 +53043,28 @@
 			O750Z177JuC5ZZuSlppyGQVVpkcGnjZqcee6rk2c5yg=
 			</data>
 		</dict>
+		<key>app/tns_modules/tns-core-modules/debugger/devtools-elements.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TrvR2DwExekupCPRoRDn7aWO7a8=
+			</data>
+			<key>hash2</key>
+			<data>
+			F75NphzZt1Ujr6jfBlCwJRuQXBMI4pAiFhivcmxO5xM=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/debugger/dom-node.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y6js6xZgLw7ComO0LcEhoYST8sM=
+			</data>
+			<key>hash2</key>
+			<data>
+			lctIuEaQJHwvcIhB/szRuEXIAh6Khvy5Uk+AK52pr0c=
+			</data>
+		</dict>
 		<key>app/tns_modules/tns-core-modules/debugger/package.json</key>
 		<dict>
 			<key>hash</key>
@@ -54594,11 +53146,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bg0CefLbnEe8PulaKih+vM5FGPo=
+			bCuu3jlN1RbV8kXYIKUyMMD/mzo=
 			</data>
 			<key>hash2</key>
 			<data>
-			NU+J8P2hnCRpUXRwmPKN1QmENVGT2W1vuzHczcdL8OI=
+			StzBisgy6/hJrJvZ8MIx6dkZCOLo8wu2FNKMQywYh1c=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/file-system/package.json</key>
@@ -54660,33 +53212,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dwOoHiq3HJhsxlq2/C+3I8ARzLo=
+			h+LMCc0DRBdgqbS1h30hECNXJyw=
 			</data>
 			<key>hash2</key>
 			<data>
-			29gV6R2O+H3mAdX2W+URW3QnbQzQctNnqpYlkJipby4=
+			kyrZ5Ds+ivsuXAbVZbnO26GLYtVJW8P7E7wKZvX13dY=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/globals/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8hhheqKBlOvhn8Fxij1I+9yGjs4=
+			esXKnd5wawUYAip+LXNFi2+qd9o=
 			</data>
 			<key>hash2</key>
 			<data>
-			hEuMUg63gGW71C5MFzp1JR2nKTm8YJErELF3bkWQqbI=
+			PdcftgLltr3UTtibx8rYnnVT6A3QTJZIHbysiDMLhRE=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/http/http-request/http-request-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xfjaq3tvPxS1GpUGVCkdtwLNlkA=
+			</data>
+			<key>hash2</key>
+			<data>
+			LC4bnhbhwQUhpImXNDBJACRYuL1juLYLgQZzggVNwYU=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/http/http-request/http-request.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2w5Dqcqr6A4GUPPwpFpb7QyDm7M=
+			8SfBXmbNzQ+lGCVK8Yb4mSwUsVM=
 			</data>
 			<key>hash2</key>
 			<data>
-			OqBa/PfrTcCIXtF3usvVG5o7aXrpU1eSazck9Y0jGDc=
+			GcctapM/D3N/tcYrOULVVo0PyYuDpjRqpnBMXpH6kpk=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/http/http-request/package.json</key>
@@ -54865,15 +53428,37 @@
 			ACzlSI+tA2LBXuWgzeeQ14Ehjs+Z3MunUkemXeBLgfk=
 			</data>
 		</dict>
+		<key>app/tns_modules/tns-core-modules/matrix/matrix.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6gi77Py+Hib6+uluuEr0qODrl5A=
+			</data>
+			<key>hash2</key>
+			<data>
+			G10zHGWZzpXctYYwEqDfxti07SeIi5X3OPX+Lb+95hE=
+			</data>
+		</dict>
+		<key>app/tns_modules/tns-core-modules/matrix/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			A4iyJdDV3pppVUbny/VCBjjbunw=
+			</data>
+			<key>hash2</key>
+			<data>
+			l05wDgbcglcVkRdZy9S3szg1m1GFhJHOwgqS9CRTIbg=
+			</data>
+		</dict>
 		<key>app/tns_modules/tns-core-modules/package.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BOLoO5/smYKSDDEe+5iqnewPw5I=
+			3xOFwHDewtpq2uCZa1Oho2nk/sU=
 			</data>
 			<key>hash2</key>
 			<data>
-			j8ZJfBEJI6gJqXesgiuxwu+E7xFzselkHSqV0zK/B7U=
+			R+OofkoHeGpKzD6Ma4KFW8Kn3LpFK689jLMngrSTzKg=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/platform/package.json</key>
@@ -54913,11 +53498,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CB9ubSpKh6mdR14NiIbvHlFGLjY=
+			ktiBO5R4AUSMw985XeavHXVuB5w=
 			</data>
 			<key>hash2</key>
 			<data>
-			teJ+OOhpfhru7F58ZIMF1flPC6+2/uGDeobS9GFWuNk=
+			FwOzfPEGFuY+eepJUnMWZcr2JQ1Yo+bqIcc3Gxz5KVo=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/text/formatted-string.js</key>
@@ -54979,11 +53564,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ml4PjAoH4EauyyhRNNwoASioMJo=
+			I3gk76uk1H2HaQmX9moSHw/LdsU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Io/BpFwlMkagBXdTVh1/ojQXQuSngsYw0pKpPdF+P2U=
+			A4qgJrS+vuQGaKHgKQlJVbA+nApZKskbUWAZP84CF7Q=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/trace/package.json</key>
@@ -55100,11 +53685,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+5nPBJwiXC9QyoWIi0TTVJ8dfI4=
+			sVsGZNeaBfhb4lnp+bQPuzENpQ8=
 			</data>
 			<key>hash2</key>
 			<data>
-			rkXxPf2Xl9BWfKWEy6F4ekwVjSglnHD/19xU1X6gNh4=
+			gCDlBPXwT7mLOchHEP2lerl/9849icq7HjnuNnI7ryA=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/animation/package.json</key>
@@ -55199,22 +53784,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			toOzpW53a5Df3YTRyrd+sc0w+0E=
+			8EPf0gSvNY1hkTfUlCYdz7qxwNI=
 			</data>
 			<key>hash2</key>
 			<data>
-			0VbSZb4alqsVvzS2FvGz0/D9B93UzWCJl8t1wJP5ClE=
+			BatvSlMGBBbpWecD3DkNVCMHw4dd4wNvMp4JWUOUU4o=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/button/button.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fk6BpnsN68XrwJN4yUQkIgeH56E=
+			tDSo5xl7p9/D5dIN8dWkyIi5r4M=
 			</data>
 			<key>hash2</key>
 			<data>
-			svKiYGowY3Izc1ltoPptgNnCrKbDbTN9ukNp1gqZgEA=
+			uuUSVCWT8p6q/ycBCtkaAGgIgMCxZCj1IsrUVmXhSuI=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/button/package.json</key>
@@ -55331,11 +53916,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EPhIown/LttbYJGeML4uRVZXoFU=
+			HUAh/+qmLgUXN77WcOl9Os4u+Oc=
 			</data>
 			<key>hash2</key>
 			<data>
-			qqTbN4sqAPjouumHQOmtoSeY1lJg6aLLdkNIY3S0ENI=
+			HUR//lNcDPs/Ll9eGnhEJ+fvzOgF8iao/wJ6VgbLlhM=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/core/view-base/package.json</key>
@@ -55353,11 +53938,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8JPOMGy9kC5byJfqxU7Pa1GFIdU=
+			Q1IdhNTXAs7NbZWzxCkQqTfOLbo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ctt1Dg8XMAIstLDRarQ+ySIGecQBu7DZyZfLBoaGop4=
+			axrlSP63KLSpfl1DHhzBzFtur9aVp95MaZuWhyt94ok=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/core/view/package.json</key>
@@ -55375,22 +53960,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vRl9jq3KlWJ1fzQaEIEZFVWfxBA=
+			Srebpjsx16LzVFhZPbAgZc3c1gY=
 			</data>
 			<key>hash2</key>
 			<data>
-			UCVBz/20ShD78reBjDhnEYrlWWZCBGDgIj9YyewH4oE=
+			kSESRkBC/LZXbL4iI4jsziLZKY5GSGJTJgMSgY5/6Hw=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/core/view/view.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bFIh1nPStl/XYL0qyd44IG8rVJk=
+			NxQxkvkItQRmVgRAxx2iOmUSFnY=
 			</data>
 			<key>hash2</key>
 			<data>
-			5O7+WbY9h2AOeV7wPp3Cg1PRMsOWwD4TCgW3RirXSvM=
+			hL7VVRvBsgZQYSXJ4GBlKkdqOSMRiL79QHbPK+5w99c=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/core/weak-event-listener/package.json</key>
@@ -55485,11 +54070,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qdgqaQmEE2tfGxyz0ZfzZ1B60vU=
+			0R+2oR9DSXGS2+PaWAgoc6/xjz4=
 			</data>
 			<key>hash2</key>
 			<data>
-			wndTH6zcZDcWUefQkXRoHLFvjSHW/V1H8ynZSEJyUNs=
+			8Ndj4ndDXpcQtGd5E6AsRC0LaycnKaqbfz8hr1aksVw=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/editable-text-base/editable-text-base.js</key>
@@ -55540,22 +54125,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C7IotmyKTToX/Q2Fjt9POuCF+JY=
+			CpCymnH0V6tC1I+klxDGvSPz5Vg=
 			</data>
 			<key>hash2</key>
 			<data>
-			p94RK2pFNsGbldyUHYkhOTxAIqtc+B1Mukbg2CPws+s=
+			xM09f0jlzBzg6cxnUyclsWNhnjRouqk0P8IsJGoLqCw=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/frame/frame.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HWCapkNbWpH1/63XofjUk8gM1t8=
+			Pl9P2W/0dvTXQ10ODUylyQcNrd0=
 			</data>
 			<key>hash2</key>
 			<data>
-			6ycbJ6OCbP0aWBH75qwLB+kvcmXrPFmHQb1hcsCTPvE=
+			a5gNo5DCNe2WbC+BwomAL8cdGloHYbBFp82aRm9PCn4=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/frame/package.json</key>
@@ -55716,11 +54301,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zU3Y+9SuS3lJ17yCNLQ/32rPxUs=
+			ubOAPxcKjJg4sC3ojIb/0RU22ms=
 			</data>
 			<key>hash2</key>
 			<data>
-			hURGQykos3BvJQI6X/BATVcx4SND20W+eqHDqdD6RkQ=
+			70Hjrn3Vj/lEGOoUDlAVlQycr3Wmj5qbp/k9jP30psw=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/label/package.json</key>
@@ -55980,11 +54565,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6fYnuwpv1vwiyH6iJKFo5OsGbmk=
+			yGnVuxlYG1SoDBatujo/XLLuc7A=
 			</data>
 			<key>hash2</key>
 			<data>
-			oEp6/qpVD60UEnL53A6AuTGKfZjNAbG86isyBhhweM8=
+			l3oJmRu7ZL1VpQxKt1c81+JC681RCAaguGBYPdtZikM=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/list-picker/package.json</key>
@@ -56013,11 +54598,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lwC1R+vac1n56U6Z7CaNpUS4Bac=
+			LAvqeDVM5sBmeB0FC6AibvtVgg8=
 			</data>
 			<key>hash2</key>
 			<data>
-			RqWEt91DCmiQ0RiyLbxX5Ba0n6SX9TA46cpc0egpo7s=
+			FwXnM1T1Ez6oioBe1YgJEV2XOyD0zBd+dawPI4UhwHA=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/list-view/package.json</key>
@@ -56068,22 +54653,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			56f74HHJGvXyp/kIrXGsI7wLNU8=
+			ko3dimIOG1alul9vm6fcHKi/1OQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			6LTdVrU/DPGoKISt86E5ZUYs472IO8iikOjhkn1K/ck=
+			gTyloueugnlbOMs6WrqYFiQwoRXNXgFsthudfYKiCHg=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/page/page.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tEVqEzDjUr/tSbI7k4BsPhcpMZo=
+			AsfekSmft/kGGehzEd6jx1DemHE=
 			</data>
 			<key>hash2</key>
 			<data>
-			AyFNNO5xWRNcwU9FTZ12lDxNJicEDsmY9bssWA+ddkI=
+			rny6t9NJ+skPAlpJj/bZvJVBW5AQAjlY6uc0TmREiTw=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/placeholder/package.json</key>
@@ -56178,11 +54763,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rqp4n4grbuY7G+nHXaZ60EZAImM=
+			R3Mz/pbnHkTtpvsxKevwSr3YOe4=
 			</data>
 			<key>hash2</key>
 			<data>
-			cH5q1F0AY4gfl6FrF8tXMGRpzA940Mrfil18SdwtHlU=
+			NnL1u/i4tkvVvcZ2KRwOZGFf+AYW5qpJW6LeAs3kbUQ=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/scroll-view/package.json</key>
@@ -56200,11 +54785,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SSWV0BLCT99n5/0SW9JO1bjotkk=
+			YNHA5dpg0dpjdq0CBVUIpbG4CNM=
 			</data>
 			<key>hash2</key>
 			<data>
-			qQnh9jb81jqwqWBXis/KaZRYoD+wvP4anm2k7G+/RD0=
+			/o/zVXwBmfpp88sKpe6WtS4i49VEBShaEGZNah0l38I=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/scroll-view/scroll-view.js</key>
@@ -56343,22 +54928,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rYlnMfhN/9EStfseG0NnzKx2cZo=
+			U19Lg8ulODkceji0i5MzWZ0MsSI=
 			</data>
 			<key>hash2</key>
 			<data>
-			8hMHsDls6Qu4rnHRyYwoeFFVSTeDnQKgTe79Mcfd/KA=
+			cGv/9X7PtrhwlEpvqVPzyZmQ+S6HzR7NjoRfbL1emM4=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/styling/css-animation-parser.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			doEm+5OFEhQ7Vc3ivBRuoKm+jpU=
+			0jNfVKYkh0ssd/jf4h5RyAavJI4=
 			</data>
 			<key>hash2</key>
 			<data>
-			1uc8BjmXRgeV2GB5E6HrA82OJmfZvAcERqTBZJOVihs=
+			ns5qDA6z/pu7LQKvU0S3s+9zMGlrqisyzvgUCYXxb4Y=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/styling/css-selector-parser.js</key>
@@ -56431,22 +55016,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Pc2egkzJ5HewaHeo48I4Q+n+zMs=
+			/984AueMn+uxMnRgGNDuS64KWag=
 			</data>
 			<key>hash2</key>
 			<data>
-			BCLA5cloNdfdnoIhUD7d62lo+yIHG0y/HC110Fv4ffo=
+			Pst/RLN0GHehnxMjKu5ZDIwY7+9GJa9ZVWxgzjDVjIM=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/styling/style-scope.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XrrLR4Py77rUY6ZJFN70Hx4b3R8=
+			FreIs/LUFIgNUKLH2RJOq05fkJI=
 			</data>
 			<key>hash2</key>
 			<data>
-			n40DfmSSZyZhUu4XmYZS4LMMoemXsS5RJWCR+DESj+0=
+			T6RkqZw/5w4JcvfXEEvYQ5kGCMdfdt8shzTR685iuuQ=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/styling/style/package.json</key>
@@ -56530,11 +55115,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7enMVuuP3UClRpCJGlzCJfgK6sQ=
+			1rEKxpQLHUbzpZXrDTPwksE/4NU=
 			</data>
 			<key>hash2</key>
 			<data>
-			uwPlgB66i48nvYrjtrpM7VCvVu/Z+sQT+myOYcE/MpA=
+			96NcaKf81Y9/v2KbfHHasTxgQJdoYW9WCUDvatndKL4=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/text-base/package.json</key>
@@ -56596,11 +55181,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DnTbMx6q5zSlkhXe6ZskR0milow=
+			VCanw7IrNe/ts//Emp0On4jAxvk=
 			</data>
 			<key>hash2</key>
 			<data>
-			FljrUEYhgArDK/zBwR25ic726HNHD/duEskMdwgVoyA=
+			68vwvgrJ1ge316bTWXpsCX6IeSptAKsFPTLFxGz6RO4=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/text-view/package.json</key>
@@ -56629,11 +55214,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pzG9c0Abn6chg9oT/PLHXemlWtM=
+			mPFo6Xn2yXp4+fu3yU8jsGUFjr4=
 			</data>
 			<key>hash2</key>
 			<data>
-			inOZoFmTGhNVqhCuJjugDVG4C30Zw1ZeKgTZip9VxhE=
+			T+5z7rXqfTjdGNr4fW759Nz4VIg6aA1kG99+7GfLock=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/ui/time-picker/package.json</key>
@@ -56750,11 +55335,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0WiqzXFLYTQDqXRpvFLhafg2M/M=
+			UT/BjHgt1fARdVIXQ4A+Qf3Yrf0=
 			</data>
 			<key>hash2</key>
 			<data>
-			SxZxDPKsQDIGgMxz1kucp1pmv77YwhSAwlPU9e2B60s=
+			ot2GAHbhyV2ydzGJnfKDTIqQxu+S7Hv0bjm4C/kEpcA=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/utils/debug-common.js</key>
@@ -56805,11 +55390,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PZKfTpJ9mrwPQ4DszSXy1kZSkUc=
+			RRVZlSUGKJFq5rxT1+pHLPpEBos=
 			</data>
 			<key>hash2</key>
 			<data>
-			g7hFJl+FgwvJwPYkribMvWX+tUfyvkIyW8GmC72KGA4=
+			rK3WcbUYkJ0odSROBFawALhXcxawnRSy3aTXCX/DXcY=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/utils/package.json</key>
@@ -56838,11 +55423,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			q0iWvi1dBE2janilk8m0mulhrJ0=
+			CYjLek9cSi3YKmnVKL+4qvjIXSQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			4amxWIGP0JI8yLJw0mWml4LLd+xOS7z1v5RcB1D+nzo=
+			wa8RENn0o8P/48yr+ODj3CJDO9qy2yw86gaeXlVoe4k=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules/utils/utils.js</key>

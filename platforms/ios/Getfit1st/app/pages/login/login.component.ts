@@ -15,6 +15,8 @@ export class LoginComponent {
   isLoggedIn = false;
   constructor(private router: Router, private userService: UserService) {
     this.user = new User();
+    this.user.email = "karteek42@gmail.com";
+    this.user.password = "Assassin";
   }
   submit()
   {

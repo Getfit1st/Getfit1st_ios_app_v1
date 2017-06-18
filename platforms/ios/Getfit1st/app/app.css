@@ -7,3 +7,14 @@ TextField {
   padding: 10;
   font-size: 13;
 }
+.font-awesome {
+    font-family: "FontAwesome";
+    font-size: 25;
+    background-color: #267CF6;
+    color: white;
+
+}
+.main-content{
+    /*background-color: #267CF6;*/
+}
+

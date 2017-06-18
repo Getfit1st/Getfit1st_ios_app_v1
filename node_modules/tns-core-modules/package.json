@@ -2,51 +2,52 @@
   "_args": [
     [
       {
-        "raw": "tns-core-modules@~3.0.0",
+        "raw": "tns-core-modules@next",
         "scope": null,
         "escapedName": "tns-core-modules",
         "name": "tns-core-modules",
-        "rawSpec": "~3.0.0",
-        "spec": ">=3.0.0 <3.1.0",
-        "type": "range"
+        "rawSpec": "next",
+        "spec": "next",
+        "type": "tag"
       },
-      "/Users/karteeknidubrolu/Getfit1st/node_modules/tns-template-hello-world-ng"
+      "/Users/karteeknidubrolu/Getfit1st"
     ]
   ],
-  "_from": "tns-core-modules@>=3.0.0 <3.1.0",
-  "_id": "tns-core-modules@3.0.1",
+  "_from": "tns-core-modules@next",
+  "_id": "tns-core-modules@3.1.0-2017-06-16-6999",
   "_inCache": true,
   "_location": "/tns-core-modules",
-  "_nodeVersion": "6.10.3",
+  "_nodeVersion": "6.9.4",
   "_npmOperationalInternal": {
     "host": "s3://npm-registry-packages",
-    "tmp": "tmp/tns-core-modules-3.0.1.tgz_1495549223117_0.5363377286121249"
+    "tmp": "tmp/tns-core-modules-3.1.0-2017-06-16-6999.tgz_1497596564533_0.6099018692038953"
   },
   "_npmUser": {
     "name": "tns-bot",
     "email": "nativescript@telerik.com"
   },
-  "_npmVersion": "4.2.0",
+  "_npmVersion": "3.10.10",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "tns-core-modules@~3.0.0",
+    "raw": "tns-core-modules@next",
     "scope": null,
     "escapedName": "tns-core-modules",
     "name": "tns-core-modules",
-    "rawSpec": "~3.0.0",
-    "spec": ">=3.0.0 <3.1.0",
-    "type": "range"
+    "rawSpec": "next",
+    "spec": "next",
+    "type": "tag"
   },
   "_requiredBy": [
-    "/tns-template-hello-world-ng"
+    "#USER",
+    "/"
   ],
-  "_resolved": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-3.0.1.tgz",
-  "_shasum": "08cd7b72c98e6f563fbba536668a50c04dd1a5fd",
+  "_resolved": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-3.1.0-2017-06-16-6999.tgz",
+  "_shasum": "033ad58548b49223c5cb742dd5cd488b973a859c",
   "_shrinkwrap": null,
-  "_spec": "tns-core-modules@~3.0.0",
-  "_where": "/Users/karteeknidubrolu/Getfit1st/node_modules/tns-template-hello-world-ng",
+  "_spec": "tns-core-modules@next",
+  "_where": "/Users/karteeknidubrolu/Getfit1st",
   "dependencies": {
-    "tns-core-modules-widgets": "3.0.1"
+    "tns-core-modules-widgets": "next"
   },
   "description": "Telerik NativeScript Core Modules",
   "devDependencies": {
@@ -55,8 +56,8 @@
   },
   "directories": {},
   "dist": {
-    "shasum": "08cd7b72c98e6f563fbba536668a50c04dd1a5fd",
-    "tarball": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-3.0.1.tgz"
+    "shasum": "033ad58548b49223c5cb742dd5cd488b973a859c",
+    "tarball": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-3.1.0-2017-06-16-6999.tgz"
   },
   "files": [
     "**/*.d.ts",
@@ -104,11 +105,25 @@
     }
   },
   "optionalDependencies": {},
+  "publishConfig": {
+    "tag": "next"
+  },
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NativeScript/NativeScript/commit/77c3ea8dc30847721006743c25a0f2d7ca1bf6e7"
+    "url": "https://github.com/NativeScript/NativeScript/commit/979f59f822d6e61094f9ed7312e99da040b38518"
+  },
+  "scripts": {},
+  "snapshot": {
+    "android": {
+      "tns-java-classes": {
+        "modules": [
+          "ui/frame/activity",
+          "ui/frame/fragment"
+        ]
+      }
+    }
   },
   "typings": "tns-core-modules.d.ts",
-  "version": "3.0.1"
+  "version": "3.1.0-2017-06-16-6999"
 }

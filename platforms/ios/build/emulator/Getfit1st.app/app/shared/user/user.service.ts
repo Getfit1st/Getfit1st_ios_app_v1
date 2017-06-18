@@ -14,13 +14,14 @@ export class UserService {
   }*/
 
   login(user: User) {
-    firebase.login({
+    return firebase.login({
     type: firebase.LoginType.PASSWORD,
     email: user.email,
     password: user.password
   }).then(
       function (result) {
         JSON.stringify(result);
+        console.log("Loginsuccess");
         return true;
       },
       function (errorMessage) {
