@@ -1,8 +1,8 @@
 import { Component } from "@angular/core";
 
 @Component({
-  selector: "tabbedview",
-  templateUrl: "pages/tabbedview/tabbedview.html",
-  styleUrls: ["pages/tabbedview/tabbedview-common.css", "pages/tabbedview/tabbedview.css"]
+  selector: "app-tabbedview",
+  templateUrl: "./shared/tabbedview/tabbedview.component.html",
+  styleUrls: ["./shared/tabbedview/tabbedview-common.css", "./shared/tabbedview/tabbedview.css"]
 })
 export class TabbedviewComponent {}

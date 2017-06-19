@@ -9,6 +9,12 @@ TextField {
 }
 .font-awesome {
     font-family: "FontAwesome";
-    font-size: 30;
+    font-size: 25;
+    background-color: #267CF6;
+    color: white;
+
+}
+.main-content{
+    /*background-color: #267CF6;*/
 }
 

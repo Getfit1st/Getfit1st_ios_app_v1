@@ -5,11 +5,13 @@ import { NativeScriptModule } from "nativescript-angular/nativescript.module";
 import { NativeScriptRouterModule } from "nativescript-angular/router";
 
 import { AppComponent } from "./app.component";
+import { TabbedviewComponent } from "./shared/tabbedview/tabbedview.component";
 import { routes, navigatableComponents } from "./app.routing";
 
 @NgModule({
   declarations: [
     AppComponent,
+    TabbedviewComponent,
     ...navigatableComponents
     ],
 

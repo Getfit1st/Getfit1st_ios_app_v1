@@ -1,8 +1,10 @@
 TextField {
   border-width: 1;
-  border-color: #358CCB;
+  border-color: #267CF6;
+  background-color: #267CF6;
+  color: white;
 }
 .border-layout{
-  border-top-color: #358CCB;
-  border-top-width:1;
+ border-color: #267CF6 transparent transparent transparent;
+  border-width: 2 0 0 0;
 }
