@@ -52,7 +52,7 @@
     "lodash": true,
     "xmldom": true,
     "uuid": true,
-    "nativescript-telerik-ui": true,
+    "nativescript-telerik-ui-pro": true,
     "nativescript-theme-core": true,
     "rxjs": true,
     "symbol-observable": true,

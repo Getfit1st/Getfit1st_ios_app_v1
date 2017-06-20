@@ -6,9 +6,9 @@ Environment  LANG=en_US.US-ASCII PATH=/Applications/Xcode.app/Contents/Developer
 BuilderIdent ProcessPCH\ /Users/karteeknidubrolu/Getfit1st/platforms/ios/build/sharedpch/Getfit1st-Prefix-blazwlgumdzmrqflpfrnbwckmiwk/Getfit1st-Prefix.pch.pch\ Getfit1st/Getfit1st-Prefix.pch\ normal\ x86_64\ objective-c\ com.apple.compilers.llvm.clang.1_0.compiler
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/SDKSettings.plist 0 1494473346 1893 33204
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/System/Library/CoreServices/SystemVersion.plist 0 1493252971 418 33188
-InputFile    /Users/karteeknidubrolu/Getfit1st/platforms/ios/Getfit1st/Getfit1st-Prefix.pch 0 1497838887 236 33188
+InputFile    /Users/karteeknidubrolu/Getfit1st/platforms/ios/Getfit1st/Getfit1st-Prefix.pch 0 1497917633 236 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/SDKSettings.plist 0 1494473346 1893 33204
-InputFile    /Users/karteeknidubrolu/Getfit1st/platforms/ios/Getfit1st/Getfit1st-Prefix.pch 0 1497838887 236 33188
+InputFile    /Users/karteeknidubrolu/Getfit1st/platforms/ios/Getfit1st/Getfit1st-Prefix.pch 0 1497917633 236 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/usr/include/Availability.h 0 1486049190 16257 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/usr/include/AvailabilityInternal.h 0 1485390706 2638930 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h 0 1488862740 6943 33188

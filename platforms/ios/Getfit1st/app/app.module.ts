@@ -3,10 +3,12 @@ import { NativeScriptFormsModule } from "nativescript-angular/forms";
 import { NativeScriptHttpModule } from "nativescript-angular/http";
 import { NativeScriptModule } from "nativescript-angular/nativescript.module";
 import { NativeScriptRouterModule } from "nativescript-angular/router";
+import { NativeScriptUICalendarModule } from "nativescript-telerik-ui-pro/calendar/angular";
 
 import { AppComponent } from "./app.component";
 import { TabbedviewComponent } from "./shared/tabbedview/tabbedview.component";
 import { routes, navigatableComponents } from "./app.routing";
+
 
 @NgModule({
   declarations: [
@@ -22,6 +24,7 @@ import { routes, navigatableComponents } from "./app.routing";
     NativeScriptFormsModule,
     NativeScriptHttpModule,
     NativeScriptRouterModule,
+    NativeScriptUICalendarModule,
     NativeScriptRouterModule.forRoot(routes)],
     
   schemas: [NO_ERRORS_SCHEMA],

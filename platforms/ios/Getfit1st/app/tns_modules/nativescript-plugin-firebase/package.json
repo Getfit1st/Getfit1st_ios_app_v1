@@ -2,18 +2,18 @@
   "_args": [
     [
       {
-        "raw": "nativescript-plugin-firebase",
+        "raw": "nativescript-plugin-firebase@^3.12.0",
         "scope": null,
         "escapedName": "nativescript-plugin-firebase",
         "name": "nativescript-plugin-firebase",
-        "rawSpec": "",
-        "spec": "latest",
-        "type": "tag"
+        "rawSpec": "^3.12.0",
+        "spec": ">=3.12.0 <4.0.0",
+        "type": "range"
       },
       "/Users/karteeknidubrolu/Getfit1st"
     ]
   ],
-  "_from": "nativescript-plugin-firebase@latest",
+  "_from": "nativescript-plugin-firebase@>=3.12.0 <4.0.0",
   "_id": "nativescript-plugin-firebase@3.12.0",
   "_inCache": true,
   "_location": "/nativescript-plugin-firebase",
@@ -29,22 +29,21 @@
   "_npmVersion": "3.10.10",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "nativescript-plugin-firebase",
+    "raw": "nativescript-plugin-firebase@^3.12.0",
     "scope": null,
     "escapedName": "nativescript-plugin-firebase",
     "name": "nativescript-plugin-firebase",
-    "rawSpec": "",
-    "spec": "latest",
-    "type": "tag"
+    "rawSpec": "^3.12.0",
+    "spec": ">=3.12.0 <4.0.0",
+    "type": "range"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-plugin-firebase/-/nativescript-plugin-firebase-3.12.0.tgz",
   "_shasum": "4a3afb907068569f7d07e7a5d57db0deeb6dd244",
   "_shrinkwrap": null,
-  "_spec": "nativescript-plugin-firebase",
+  "_spec": "nativescript-plugin-firebase@^3.12.0",
   "_where": "/Users/karteeknidubrolu/Getfit1st",
   "author": {
     "name": "Telerik / Eddy Verbruggen",
