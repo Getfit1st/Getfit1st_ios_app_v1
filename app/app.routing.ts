@@ -3,9 +3,9 @@ import { HomeComponent } from "./pages/home/home.component";
 import { CalendarComponent } from "./pages/calendar/calendar.component";
 
 export const routes = [
-  { path: "", component: LoginComponent },
+  { path: "login", component: LoginComponent },
   { path: "home", component: HomeComponent , children:[
-      { path: "", component: CalendarComponent },
+      { path: "calendar", component: CalendarComponent },
   ]},
   
 ];

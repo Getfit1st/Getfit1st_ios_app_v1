@@ -1,5 +1,16 @@
 import { Component } from "@angular/core";
 import { Router } from "@angular/router";
+import {
+    getBoolean,
+    setBoolean,
+    getNumber,
+    setNumber,
+    getString,
+    setString,
+    hasKey,
+    remove,
+    clear
+} from "application-settings";
 
 @Component({
   selector: "app-tabbedview",
@@ -18,7 +29,13 @@ export class TabbedviewComponent {
     }
     else if(pathNavigate == "calendar")
     {
-      this.router.navigate(["/calendar"]);
+      this.router.navigate(["/home/calendar"]);
+    }
+    else if(pathNavigate == "settings")
+    {
+      console.log("Log out tapped---");
+                 clear();//clear all application settings
+                this.router.navigate(["/login"]);
     }
   }
 }
