@@ -26,6 +26,7 @@ import { routes, navigatableComponents } from "./app.routing";
     NativeScriptRouterModule,
     NativeScriptUICalendarModule,
     NativeScriptRouterModule.forRoot(routes)],
+  exports: [NativeScriptRouterModule],
     
   schemas: [NO_ERRORS_SCHEMA],
 })

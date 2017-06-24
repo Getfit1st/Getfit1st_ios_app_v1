@@ -4,8 +4,10 @@ import { CalendarComponent } from "./pages/calendar/calendar.component";
 
 export const routes = [
   { path: "", component: LoginComponent },
-  { path: "home", component: HomeComponent },
-  { path: "calendar", component: CalendarComponent }
+  { path: "home", component: HomeComponent , children:[
+      { path: "", component: CalendarComponent },
+  ]},
+  
 ];
 
 export const navigatableComponents = [
